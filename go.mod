@@ -1,3 +1,3 @@
-module github.com/kristiandrex/golor
+module github.com/kristiandrex/league-of-go
 
-go 1.17
+go 1.18
