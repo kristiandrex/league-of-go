@@ -11,9 +11,9 @@ import (
 	"slices"
 )
 
-// Get the latest version of the game
+// Get the list of versions, select the latest one and download the champions.
+// The champions are saved in the public/data/patch.json file.
 func GetLatestVersion() {
-
 	fileName := filepath.Join("public", "data", "version.txt")
 
 	// Check if the latest version is already downloaded
@@ -104,6 +104,7 @@ func GetLatestVersion() {
 	fmt.Println("Version", versions[0], "successfully downloaded")
 }
 
+// Get the list of versions
 func getVersions() []string {
 	resp, err := http.Get("https://ddragon.leagueoflegends.com/api/versions.json")
 
@@ -129,12 +130,8 @@ func getVersions() []string {
 	return versions
 }
 
-type DragonChampionId struct {
-	Id string
-}
-
 // Get the id of the all champions of a specific version
-func getChampionsByVersion(version string) map[string]DragonChampionId {
+func getChampionsByVersion(version string) map[string]dragonChampion {
 	resp, err := http.Get(fmt.Sprintf("https://ddragon.leagueoflegends.com/cdn/%s/data/en_US/champion.json", version))
 
 	if err != nil {
@@ -149,7 +146,7 @@ func getChampionsByVersion(version string) map[string]DragonChampionId {
 	}
 
 	var dragon struct {
-		Data map[string]DragonChampionId
+		Data map[string]dragonChampion
 	}
 
 	err = json.Unmarshal(body, &dragon)
@@ -162,15 +159,15 @@ func getChampionsByVersion(version string) map[string]DragonChampionId {
 }
 
 // Struct of the champion of the data dragon response
-type DragonChampion struct {
+type dragonChampion struct {
 	Id    string
 	Name  string
 	Title string
 	Lore  string
-	Skins []DragonSkin
+	Skins []dragonSkin
 }
 
-type DragonSkin struct {
+type dragonSkin struct {
 	Id   string
 	Num  int
 	Name string
@@ -207,7 +204,7 @@ func getChampionByVersion(id string, version string, isNew bool) Champion {
 	}
 
 	var dragon struct {
-		Data map[string]DragonChampion
+		Data map[string]dragonChampion
 	}
 
 	err = json.Unmarshal(body, &dragon)
@@ -232,10 +229,10 @@ func getChampionByVersion(id string, version string, isNew bool) Champion {
 }
 
 // Get the skins of a champion
-func getSkins(id string, rawSkins []DragonSkin) []Skin {
-	skins := make([]Skin, len(rawSkins))
+func getSkins(id string, dragonSkins []dragonSkin) []Skin {
+	skins := make([]Skin, len(dragonSkins))
 
-	for i, value := range rawSkins {
+	for i, value := range dragonSkins {
 		skins[i] = Skin{
 			Name: fmt.Sprintf("%v", value.Name),
 			Url:  fmt.Sprintf("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/%v_%v.jpg", id, value.Num),
