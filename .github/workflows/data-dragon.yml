@@ -17,6 +17,7 @@ jobs:
         id: data-dragon
         run: |
           go run main.go
+          ls -la
           echo "DATA_DRAGON=$(cat file ./data/version.txt)" >> "$GITHUB_ENV"
       - name: Commit and push changes
         run: |
