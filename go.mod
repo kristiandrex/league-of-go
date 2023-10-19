@@ -1,3 +1,3 @@
 module github.com/kristiandrex/league-of-go
 
-go 1.18
+go 1.21.3

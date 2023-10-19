@@ -12,25 +12,25 @@ import (
 )
 
 // Get the list of versions, select the latest one and download the champions.
-// The champions are saved in the public/data/patch.json file.
+// The champions are saved in the data/patch.json file.
 func GetLatestVersion() {
-	fileName := filepath.Join("public", "data", "version.txt")
+	versionFile := filepath.Join("data", "version.txt")
 
 	// Check if the latest version is already downloaded
-	_, err := os.Stat(fileName)
+	_, err := os.Stat(versionFile)
 
 	if err != nil {
 		if !os.IsNotExist(err) {
 			panic(err)
 		}
 
-		err = os.MkdirAll(filepath.Dir(fileName), 0750)
+		err = os.MkdirAll(filepath.Dir(versionFile), 0750)
 
 		if err != nil {
 			panic(err)
 		}
 
-		_, err = os.Create(fileName)
+		_, err = os.Create(versionFile)
 
 		if err != nil {
 			panic(err)
@@ -39,7 +39,7 @@ func GetLatestVersion() {
 
 	// Read the latest version from the file
 	// and compare it with the latest version
-	file, err := os.Open(fileName)
+	file, err := os.Open(versionFile)
 
 	if err != nil {
 		panic(err)
@@ -62,6 +62,8 @@ func GetLatestVersion() {
 		fmt.Println("Version", currentVersion, "is already downloaded. Use the flag --force to download it again")
 		return
 	}
+
+	fmt.Println("Downloading version", versions[0])
 
 	latestChampions := getChampionsByVersion(versions[0])
 	previousChampions := getChampionsByVersion(versions[1])
@@ -95,7 +97,13 @@ func GetLatestVersion() {
 		panic(err)
 	}
 
-	err = os.WriteFile(filepath.Join("public", "data", "patch.json"), data, 0644)
+	err = os.WriteFile(filepath.Join("data", "patch.json"), data, 0644)
+
+	if err != nil {
+		panic(err)
+	}
+
+	err = os.WriteFile(versionFile, []byte(versions[0]), 0644)
 
 	if err != nil {
 		panic(err)

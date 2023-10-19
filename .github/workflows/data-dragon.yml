@@ -1,0 +1,35 @@
+name: Download latest patch from Data Dragon
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  data-dragon:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Go 1.21.3
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21.3'
+      - name: Download latest patch from Data Dragon
+        id: data-dragon
+        run: |
+          go run main.go
+          echo "DATA_DRAGON=$(cat file data/version.txt)" >> "$GITHUB_ENV"
+      - name: Commit and push changes
+        run: |
+          echo "Checking for changes"
+
+          if [[ -n $(git diff --exit-code) ]]; then
+            echo "Commit patch $DATA_DRAGON"
+            git config --global user.email "cristiandrestorres@gmail.com"
+            git config --global user.name "Cristian Torrez"
+            git add -A
+            git commit -m "Download patch $DATA_DRAGON"
+            git push
+          fi
+        
+
+        
