@@ -17,20 +17,22 @@ jobs:
         id: data-dragon
         run: |
           go run main.go
-          ls -la
-          echo "DATA_DRAGON=$(cat file ./data/version.txt)" >> "$GITHUB_ENV"
+          echo "DATA_DRAGON=$(cat ./data/version.txt)" >> "$GITHUB_ENV"
       - name: Commit and push changes
         run: |
           echo "Checking for changes"
 
-          if [[ -n $(git diff --exit-code) ]]; then
-            echo "Commit patch $DATA_DRAGON"
-            git config --global user.email "cristiandrestorres@gmail.com"
-            git config --global user.name "Cristian Torrez"
-            git add -A
-            git commit -m "Download patch $DATA_DRAGON"
-            git push
+          if [[ -z $(git diff --exit-code) ]]; then
+            echo "No changes to commit"
+            exit 0
           fi
+
+          echo "Commit patch $DATA_DRAGON"
+          git config --global user.email "cristiandrestorres@gmail.com"
+          git config --global user.name "Cristian Torrez"
+          git add -A
+          git commit -m "Download patch $DATA_DRAGON"
+          git push
         
 
         
