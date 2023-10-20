@@ -22,7 +22,7 @@ jobs:
         run: |
           echo "Checking for changes"
 
-          if [[ -n $(git diff --exit-code) ]]; then
+          if [[ $(git status --porcelain) ]]; then
             echo "Commit patch $DATA_DRAGON"
             git config --global user.email "cristiandrestorres@gmail.com"
             git config --global user.name "Cristian Torrez"
