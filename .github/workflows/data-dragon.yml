@@ -1,7 +1,7 @@
 name: Download latest patch from Data Dragon
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,17 +22,13 @@ jobs:
         run: |
           echo "Checking for changes"
 
-          if [[ -z $(git diff --exit-code) ]]; then
+          if [[ -n $(git diff --exit-code) ]]; then
+            echo "Commit patch $DATA_DRAGON"
+            git config --global user.email "cristiandrestorres@gmail.com"
+            git config --global user.name "Cristian Torrez"
+            git add -A
+            git commit -m "Download patch $DATA_DRAGON"
+            git push
+          else
             echo "No changes to commit"
-            exit 0
           fi
-
-          echo "Commit patch $DATA_DRAGON"
-          git config --global user.email "cristiandrestorres@gmail.com"
-          git config --global user.name "Cristian Torrez"
-          git add -A
-          git commit -m "Download patch $DATA_DRAGON"
-          git push
-        
-
-        
