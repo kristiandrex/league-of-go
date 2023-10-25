@@ -1,5 +1,5 @@
 {
- "version": "13.20.1",
+ "version": "13.21.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -2849,6 +2849,10 @@
     {
      "name": "Prestige Battle Cat Jinx",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_40.jpg"
+    },
+    {
+     "name": "Cafe Cuties Jinx",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_51.jpg"
     }
    ],
    "new": false
@@ -3939,6 +3943,10 @@
     {
      "name": "Monster Tamer Lulu",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_37.jpg"
+    },
+    {
+     "name": "Cafe Cuties Lulu",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_46.jpg"
     }
    ],
    "new": false
@@ -5259,6 +5267,10 @@
     {
      "name": "Bewitching Poppy",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_24.jpg"
+    },
+    {
+     "name": "Cafe Cuties Poppy",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_33.jpg"
     }
    ],
    "new": false
@@ -5807,6 +5819,10 @@
     {
      "name": "Space Groove Rumble",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_13.jpg"
+    },
+    {
+     "name": "Cafe Cuties Rumble",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_23.jpg"
     }
    ],
    "new": false
