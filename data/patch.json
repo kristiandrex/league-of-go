@@ -1,5 +1,5 @@
 {
- "version": "13.21.1",
+ "version": "13.22.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -551,6 +551,10 @@
     {
      "name": "Spirit Blossom Aphelios",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_20.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Aphelios",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_30.jpg"
     }
    ],
    "new": false
@@ -1501,6 +1505,10 @@
     {
      "name": "Prestige Star Guardian Ekko",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_46.jpg"
+    },
+    {
+     "name": "Breakout True Damage Ekko",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_56.jpg"
     }
    ],
    "new": false
@@ -1695,6 +1703,10 @@
     {
      "name": "Faerie Court Ezreal",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_33.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Ezreal",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_43.jpg"
     }
    ],
    "new": false
@@ -2875,6 +2887,10 @@
     {
      "name": "Prestige Empyrean K'Sante",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_2.jpg"
+    },
+    {
+     "name": "HEARTSTEEL K'Sante",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_8.jpg"
     }
    ],
    "new": false
@@ -3311,6 +3327,10 @@
     {
      "name": "Snow Moon Kayn",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_15.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Kayn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_20.jpg"
     }
    ],
    "new": false
@@ -5747,7 +5767,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_6.jpg"
     },
     {
-     "name": "Worlds 2016 Riven",
+     "name": "Reignited Worlds 2012 Riven",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_7.jpg"
     },
     {
@@ -6115,6 +6135,10 @@
     {
      "name": "Soul Fighter Sett",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_45.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Sett",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_56.jpg"
     }
    ],
    "new": false
@@ -8297,6 +8321,14 @@
     {
      "name": "Inkshadow Yone",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_35.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Yone",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_45.jpg"
+    },
+    {
+     "name": "Prestige HEARTSTEEL Yone",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_46.jpg"
     }
    ],
    "new": false
