@@ -1,5 +1,5 @@
 {
- "version": "13.22.1",
+ "version": "13.23.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -831,6 +831,10 @@
     {
      "name": "Zenith Games Blitzcrank",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_47.jpg"
+    },
+    {
+     "name": "Beezcrank",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_56.jpg"
     }
    ],
    "new": false
@@ -6749,6 +6753,10 @@
     {
      "name": "Ashen Slayer Sylas",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_34.jpg"
+    },
+    {
+     "name": "Winterblessed Sylas",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_36.jpg"
     }
    ],
    "new": false
@@ -7115,6 +7123,10 @@
     {
      "name": "Lunar Emperor Thresh",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_39.jpg"
+    },
+    {
+     "name": "Winterblessed Thresh",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_49.jpg"
     }
    ],
    "new": false
@@ -7703,6 +7715,10 @@
     {
      "name": "Monster Tamer Veigar",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_41.jpg"
+    },
+    {
+     "name": "King Beegar",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_51.jpg"
     }
    ],
    "new": false
@@ -7737,6 +7753,10 @@
     {
      "name": "Blackfrost Vel'Koz",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_11.jpg"
+    },
+    {
+     "name": "Bee'Koz",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_20.jpg"
     }
    ],
    "new": false
