@@ -1,5 +1,5 @@
 {
- "version": "13.23.1",
+ "version": "13.24.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -521,6 +521,10 @@
     {
      "name": "Fright Night Annie",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_31.jpg"
+    },
+    {
+     "name": "Winterblessed Annie",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_40.jpg"
     }
    ],
    "new": false
@@ -633,6 +637,10 @@
     {
      "name": "DRX Ashe",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_63.jpg"
+    },
+    {
+     "name": "Crystalis Motus Ashe",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_65.jpg"
     }
    ],
    "new": false
@@ -1069,6 +1077,14 @@
     {
      "name": "Strike Commander Camille",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_21.jpg"
+    },
+    {
+     "name": "Winterblessed Camille",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_31.jpg"
+    },
+    {
+     "name": "Prestige Winterblessed Camille",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_32.jpg"
     }
    ],
    "new": false
@@ -2325,6 +2341,10 @@
     {
      "name": "Arcana Hecarim",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_22.jpg"
+    },
+    {
+     "name": "Winterblessed Hecarim",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_31.jpg"
     }
    ],
    "new": false
@@ -2374,6 +2394,24 @@
     }
    ],
    "new": false
+  },
+  {
+   "id": "Hwei",
+   "name": "Hwei",
+   "title": "the Visionary",
+   "lore": "Hwei is a brooding painter who creates brilliant art in order to confront Ionia's criminals and comfort their victims. Beneath his melancholy roils a torn, emotional mind—haunted by both the vibrant visions of his imagination and the gruesome memories of his temple's massacre. Hwei seeks to understand this light and dark, which drives him inevitably toward the artist who unraveled him. With paintbrush and palette, Hwei shapes endless possibilities as he draws ever closer to earning closure or embracing despair.",
+   "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hwei_0.jpg",
+   "skins": [
+    {
+     "name": "default",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_0.jpg"
+    },
+    {
+     "name": "Winterblessed Hwei",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_1.jpg"
+    }
+   ],
+   "new": true
   },
   {
    "id": "Illaoi",
@@ -3909,6 +3947,10 @@
     {
      "name": "Strike Paladin Lucian",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_40.jpg"
+    },
+    {
+     "name": "Winterblessed Lucian",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_52.jpg"
     }
    ],
    "new": false
@@ -6051,6 +6093,10 @@
     {
      "name": "Star Guardian Senna",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_46.jpg"
+    },
+    {
+     "name": "Winterblessed Senna",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_56.jpg"
     }
    ],
    "new": false
