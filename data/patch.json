@@ -1,5 +1,5 @@
 {
- "version": "13.24.1",
+ "version": "14.1.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1847,6 +1847,10 @@
     {
      "name": "Faerie Court Fiora",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_69.jpg"
+    },
+    {
+     "name": "Dragonmancer Fiora",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_80.jpg"
     }
    ],
    "new": false
@@ -2411,7 +2415,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_1.jpg"
     }
    ],
-   "new": true
+   "new": false
   },
   {
    "id": "Illaoi",
@@ -3187,6 +3191,10 @@
     {
      "name": "Shockblade Kassadin",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_15.jpg"
+    },
+    {
+     "name": "Dragonmancer Kassadin",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_24.jpg"
     }
    ],
    "new": false
@@ -5521,6 +5529,14 @@
     {
      "name": "Redeemed Star Guardian Rakan",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_36.jpg"
+    },
+    {
+     "name": "Dragonmancer Rakan",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_37.jpg"
+    },
+    {
+     "name": "Prestige Dragonmancer Rakan",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_38.jpg"
     }
    ],
    "new": false
@@ -7695,6 +7711,10 @@
     {
      "name": "Dawnbringer Vayne",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_44.jpg"
+    },
+    {
+     "name": "Dragonmancer Vayne",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_55.jpg"
     }
    ],
    "new": false
