@@ -1,5 +1,5 @@
 {
- "version": "14.1.1",
+ "version": "14.2.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -249,6 +249,10 @@
     {
      "name": "Crystal Rose Akshan",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_10.jpg"
+    },
+    {
+     "name": "Three Honors Akshan",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_20.jpg"
     }
    ],
    "new": false
@@ -1351,6 +1355,10 @@
     {
      "name": "Winterblessed Diana",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_47.jpg"
+    },
+    {
+     "name": "Heavenscale Diana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_54.jpg"
     }
    ],
    "new": false
@@ -1727,6 +1735,14 @@
     {
      "name": "HEARTSTEEL Ezreal",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_43.jpg"
+    },
+    {
+     "name": "Heavenscale Ezreal",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_44.jpg"
+    },
+    {
+     "name": "Prestige Heavenscale Ezreal",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_54.jpg"
     }
    ],
    "new": false
@@ -2609,6 +2625,10 @@
     {
      "name": "Prestige Cyber Halo Janna",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_46.jpg"
+    },
+    {
+     "name": "Heavenscale Janna",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_56.jpg"
     }
    ],
    "new": false
@@ -2995,6 +3015,10 @@
     {
      "name": "Inkshadow Kai'Sa",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_48.jpg"
+    },
+    {
+     "name": "Heavenscale Kai'Sa",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_59.jpg"
     }
    ],
    "new": false
@@ -3751,6 +3775,14 @@
     {
      "name": "Zenith Games Lee Sin",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_41.jpg"
+    },
+    {
+     "name": "Heavenscale Lee Sin",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_51.jpg"
+    },
+    {
+     "name": "Divine Heavenscale Lee Sin",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_52.jpg"
     }
    ],
    "new": false
@@ -4363,6 +4395,10 @@
     {
      "name": "Inkshadow Master Yi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_89.jpg"
+    },
+    {
+     "name": "Heavenscale Master Yi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_96.jpg"
     }
    ],
    "new": false
@@ -5867,6 +5903,10 @@
     {
      "name": "Broken Covenant Riven",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_55.jpg"
+    },
+    {
+     "name": "Primal Ambush Riven",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_63.jpg"
     }
    ],
    "new": false
@@ -6561,6 +6601,10 @@
     {
      "name": "Prestige Mythmaker Sivir",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_51.jpg"
+    },
+    {
+     "name": "Primal Ambush Sivir",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_61.jpg"
     }
    ],
    "new": false
@@ -6598,6 +6642,24 @@
     }
    ],
    "new": false
+  },
+  {
+   "id": "Smolder",
+   "name": "Smolder",
+   "title": "the Fiery Fledgling",
+   "lore": "Hidden amongst the craggy cliffs of the Noxian frontier, under the watchful eyes of his mother, a young dragon is learning what it means to be heir to the Camavoran imperial dragon lineage. Playful and eager to grow up, Smolder looks for any excuse to practice his burgeoning abilities. Though he's still a fledgling, his skills are nothing to sneeze at, easily setting fire to anything that burns.",
+   "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Smolder_0.jpg",
+   "skins": [
+    {
+     "name": "default",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_0.jpg"
+    },
+    {
+     "name": "Heavenscale Smolder",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_1.jpg"
+    }
+   ],
+   "new": true
   },
   {
    "id": "Sona",
@@ -7007,6 +7069,10 @@
     {
      "name": "Prestige High Noon Talon",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_39.jpg"
+    },
+    {
+     "name": "Primal Ambush Talon",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_49.jpg"
     }
    ],
    "new": false
@@ -7899,6 +7965,10 @@
     {
      "name": "Heartache Vi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_30.jpg"
+    },
+    {
+     "name": "Primal Ambush Vi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_39.jpg"
     }
    ],
    "new": false
@@ -8373,6 +8443,10 @@
     {
      "name": "Prestige Inkshadow Yasuo",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_57.jpg"
+    },
+    {
+     "name": "Foreseen Yasuo",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_68.jpg"
     }
    ],
    "new": false
