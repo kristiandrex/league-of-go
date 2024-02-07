@@ -1,5 +1,5 @@
 {
- "version": "14.2.1",
+ "version": "14.3.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -6659,7 +6659,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_1.jpg"
     }
    ],
-   "new": true
+   "new": false
   },
   {
    "id": "Sona",
