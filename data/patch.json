@@ -1,5 +1,5 @@
 {
- "version": "14.4.1",
+ "version": "14.5.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -2045,6 +2045,10 @@
     {
      "name": "Gangplank the Betrayer",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_23.jpg"
+    },
+    {
+     "name": "PROJECT: Gangplank",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_33.jpg"
     }
    ],
    "new": false
@@ -2785,6 +2789,10 @@
     {
      "name": "Neo PAX Jax",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_32.jpg"
+    },
+    {
+     "name": "PROJECT: Jax",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_33.jpg"
     }
    ],
    "new": false
@@ -4727,6 +4735,10 @@
     {
      "name": "Soul Fighter Naafiri",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_1.jpg"
+    },
+    {
+     "name": "PROJECT: Naafiri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_11.jpg"
     }
    ],
    "new": false
