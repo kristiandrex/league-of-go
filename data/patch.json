@@ -1,5 +1,5 @@
 {
- "version": "14.6.1",
+ "version": "14.7.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1189,6 +1189,10 @@
     {
      "name": "Broken Covenant Cho'Gath",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_23.jpg"
+    },
+    {
+     "name": "Toy Terror Cho'Gath",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_32.jpg"
     }
    ],
    "new": false
@@ -5313,6 +5317,10 @@
     {
      "name": "Space Groove Ornn",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_11.jpg"
+    },
+    {
+     "name": "Choo-Choo Ornn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_20.jpg"
     }
    ],
    "new": false
@@ -5683,6 +5691,10 @@
     {
      "name": "Astronaut Rammus",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_17.jpg"
+    },
+    {
+     "name": "Durian Defender Rammus",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_26.jpg"
     }
    ],
    "new": false
@@ -6672,8 +6684,8 @@
   {
    "id": "Skarner",
    "name": "Skarner",
-   "title": "the Crystal Vanguard",
-   "lore": "Skarner is an immense crystalline scorpion from a hidden valley in Shurima. Part of the ancient Brackern race, Skarner and his kin are known for their great wisdom and deep connection to the land, as their souls are fused with powerful life crystals which hold the living thoughts and memories of their ancestors. In an age long past, the Brackern entered hibernation to avoid untold magical destruction, but recent, threatening events have roused Skarner. As the only Brackern awake, he strives to protect his kind from those who seek to harm them.",
+   "title": "the Primordial Sovereign",
+   "lore": "The ancient, colossal brackern Skarner is revered in Ixtal as one of the founding members of its ruling caste, the Yun Tal. Devoted to keeping his nation safe from the rest of the world, Skarner dwells in a chamber beneath Ixaocan where he can hear the vibrations of the earth and detect potential threats. As more members of the Yun Tal begin questioning Ixtal's self-isolation, Skarner grows increasingly paranoid and will do anything to keep Ixtal and its people safe—no matter the cost.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Skarner_0.jpg",
    "skins": [
     {
@@ -7625,6 +7637,10 @@
     {
      "name": "High Noon Twitch",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_45.jpg"
+    },
+    {
+     "name": "Cheddar Chief Twitch",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_55.jpg"
     }
    ],
    "new": false
@@ -8675,6 +8691,10 @@
     {
      "name": "Empyrean Zac",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_14.jpg"
+    },
+    {
+     "name": "Zesty Dip Zac",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_24.jpg"
     }
    ],
    "new": false
