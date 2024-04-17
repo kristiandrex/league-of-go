@@ -1,5 +1,5 @@
 {
- "version": "14.7.1",
+ "version": "14.8.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1817,6 +1817,10 @@
     {
      "name": "Star Nemesis Fiddlesticks",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_27.jpg"
+    },
+    {
+     "name": "Blood Moon Fiddlesticks",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_37.jpg"
     }
    ],
    "new": false
@@ -8753,6 +8757,10 @@
     {
      "name": "Immortal Journey Zed",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_49.jpg"
+    },
+    {
+     "name": "Blood Moon Zed",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_58.jpg"
     }
    ],
    "new": false
@@ -8975,6 +8983,10 @@
     {
      "name": "Street Demons Zyra",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_46.jpg"
+    },
+    {
+     "name": "Blood Moon Zyra",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_55.jpg"
     }
    ],
    "new": false
