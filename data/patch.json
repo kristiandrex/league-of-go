@@ -1,5 +1,5 @@
 {
- "version": "14.8.1",
+ "version": "14.9.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -227,6 +227,10 @@
     {
      "name": "Prestige Coven Akali",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_71.jpg"
+    },
+    {
+     "name": "Empyrean Akali",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_82.jpg"
     }
    ],
    "new": false
@@ -909,6 +913,10 @@
     {
      "name": "Street Demons Brand",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_33.jpg"
+    },
+    {
+     "name": "Empyrean Brand",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_42.jpg"
     }
    ],
    "new": false
@@ -3411,6 +3419,14 @@
     {
      "name": "Immortal Journey Kayle",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_57.jpg"
+    },
+    {
+     "name": "Empyrean Kayle",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_66.jpg"
+    },
+    {
+     "name": "Prestige Empyrean Kayle",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_67.jpg"
     }
    ],
    "new": false
@@ -4319,6 +4335,10 @@
     {
      "name": "Three Honors Malzahar",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_38.jpg"
+    },
+    {
+     "name": "Empyrean Malzahar",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_39.jpg"
     }
    ],
    "new": false
@@ -5125,6 +5145,10 @@
     {
      "name": "Broken Covenant Nocturne",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_17.jpg"
+    },
+    {
+     "name": "Empyrean Nocturne",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_26.jpg"
     }
    ],
    "new": false
@@ -7783,6 +7807,10 @@
     {
      "name": "Snow Moon Varus",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_44.jpg"
+    },
+    {
+     "name": "Empyrean Varus",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_53.jpg"
     }
    ],
    "new": false
