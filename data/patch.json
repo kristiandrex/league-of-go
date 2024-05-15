@@ -1,5 +1,5 @@
 {
- "version": "14.9.1",
+ "version": "14.10.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -3707,6 +3707,10 @@
     {
      "name": "Shan Hai Scrolls Kog'Maw",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_46.jpg"
+    },
+    {
+     "name": "Victorious Kog'Maw",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_55.jpg"
     }
    ],
    "new": false
@@ -3951,6 +3955,10 @@
     {
      "name": "Shan Hai Scrolls Lillia",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_19.jpg"
+    },
+    {
+     "name": "Faerie Court Lillia",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_28.jpg"
     }
    ],
    "new": false
@@ -4211,6 +4219,10 @@
     {
      "name": "Empyrean Lux",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_42.jpg"
+    },
+    {
+     "name": "Faerie Court Lux",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_61.jpg"
     }
    ],
    "new": false
@@ -6897,6 +6909,10 @@
     {
      "name": "Immortal Journey Soraka",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_37.jpg"
+    },
+    {
+     "name": "Faerie Court Soraka",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_44.jpg"
     }
    ],
    "new": false
@@ -7425,6 +7441,10 @@
     {
      "name": "Spirit Blossom Tristana",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_51.jpg"
+    },
+    {
+     "name": "Faerie Court Tristana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_61.jpg"
     }
    ],
    "new": false
