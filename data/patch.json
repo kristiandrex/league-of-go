@@ -1,5 +1,5 @@
 {
- "version": "14.10.1",
+ "version": "14.11.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -649,6 +649,10 @@
     {
      "name": "Crystalis Motus Ashe",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_65.jpg"
+    },
+    {
+     "name": "Infernal Ashe",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_67.jpg"
     }
    ],
    "new": false
@@ -3171,6 +3175,10 @@
     {
      "name": "Faerie Queen Karma",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_54.jpg"
+    },
+    {
+     "name": "Infernal Karma",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_61.jpg"
     }
    ],
    "new": false
@@ -5273,6 +5281,10 @@
     {
      "name": "Pentakill III: Lost Chapter Olaf",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_35.jpg"
+    },
+    {
+     "name": "Infernal Olaf",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_44.jpg"
     }
    ],
    "new": false
