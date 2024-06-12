@@ -1,5 +1,5 @@
 {
- "version": "14.11.1",
+ "version": "14.12.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -137,6 +137,14 @@
     {
      "name": "Snow Moon Ahri",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_76.jpg"
+    },
+    {
+     "name": "Risen Legend Ahri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_85.jpg"
+    },
+    {
+     "name": "Immortalized Legend Ahri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_86.jpg"
     }
    ],
    "new": false
@@ -3781,6 +3789,10 @@
     {
      "name": "Bewitching LeBlanc",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_45.jpg"
+    },
+    {
+     "name": "Risen Legend LeBlanc",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_55.jpg"
     }
    ],
    "new": false
@@ -8463,6 +8475,10 @@
     {
      "name": "Astronaut Xerath",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_21.jpg"
+    },
+    {
+     "name": "Crystalis Indomitus Xerath",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_30.jpg"
     }
    ],
    "new": false
