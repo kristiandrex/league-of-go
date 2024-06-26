@@ -1,5 +1,5 @@
 {
- "version": "14.12.1",
+ "version": "14.13.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1973,6 +1973,10 @@
     {
      "name": "Astronaut Fizz",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_26.jpg"
+    },
+    {
+     "name": "Rain Shepherd Fizz",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_35.jpg"
     }
    ],
    "new": false
@@ -4521,6 +4525,10 @@
     {
      "name": "Faerie Court Milio",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_1.jpg"
+    },
+    {
+     "name": "Rain Shepherd Milio",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_11.jpg"
     }
    ],
    "new": false
