@@ -1,5 +1,5 @@
 {
- "version": "14.13.1",
+ "version": "14.14.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -700,6 +700,24 @@
    "new": false
   },
   {
+   "id": "Aurora",
+   "name": "Aurora",
+   "title": "the Witch Between Worlds",
+   "lore": "From the moment she was born, Aurora navigated life with a unique ability to move between the spirit and material realms. Determined to learn more about the spirit realm's inhabitants, she left her home to further her research and happened upon a wayward demigod who'd become twisted and lost to time. Witnessing his desperation, Aurora resolved to find a way to help her feral friend regain his forgotten identity—a journey that would take her to the farthest reaches of the Freljord.",
+   "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aurora_0.jpg",
+   "skins": [
+    {
+     "name": "default",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_0.jpg"
+    },
+    {
+     "name": "Battle Bunny Aurora",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_1.jpg"
+    }
+   ],
+   "new": true
+  },
+  {
    "id": "Azir",
    "name": "Azir",
    "title": "the Emperor of the Sands",
@@ -793,6 +811,10 @@
     {
      "name": "Cosmic Matriarch Bel'Veth",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_10.jpg"
+    },
+    {
+     "name": "Primordian Bel'Veth",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_19.jpg"
     }
    ],
    "new": false
@@ -4609,6 +4631,10 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_31.jpg"
     },
     {
+     "name": "Admiral Battle Bunny Miss Fortune",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_32.jpg"
+    },
+    {
      "name": "Prestige Bewitching Miss Fortune (2022)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_33.jpg"
     },
@@ -5797,6 +5823,10 @@
     {
      "name": "Elderwood Rek'Sai",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_17.jpg"
+    },
+    {
+     "name": "Primordian Rek'Sai",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_26.jpg"
     }
    ],
    "new": false
@@ -6343,6 +6373,10 @@
     {
      "name": "Star Guardian Seraphine",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_34.jpg"
+    },
+    {
+     "name": "Battle Dove Seraphine",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_43.jpg"
     }
    ],
    "new": false
@@ -8441,6 +8475,10 @@
     {
      "name": "Redeemed Star Guardian Xayah",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_38.jpg"
+    },
+    {
+     "name": "Battle Bat Xayah",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_47.jpg"
     }
    ],
    "new": false
@@ -8745,6 +8783,14 @@
     {
      "name": "Shiba Yuumi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_39.jpg"
+    },
+    {
+     "name": "Cyber Cat Yuumi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_49.jpg"
+    },
+    {
+     "name": "Prestige Cyber Cat Yuumi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_50.jpg"
     }
    ],
    "new": false
