@@ -1,5 +1,5 @@
 {
- "version": "14.14.1",
+ "version": "14.15.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -55,6 +55,10 @@
     {
      "name": "Prestige DRX Aatrox",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_31.jpg"
+    },
+    {
+     "name": "Primordian Aatrox",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_33.jpg"
     }
    ],
    "new": false
@@ -715,7 +719,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_1.jpg"
     }
    ],
-   "new": true
+   "new": false
   },
   {
    "id": "Azir",
@@ -1011,6 +1015,10 @@
     {
      "name": "Street Demons Briar",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_1.jpg"
+    },
+    {
+     "name": "Primordian Briar",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_10.jpg"
     }
    ],
    "new": false
@@ -2541,6 +2549,10 @@
     {
      "name": "Snow Moon Illaoi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_18.jpg"
+    },
+    {
+     "name": "Battle Bear Illaoi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_27.jpg"
     }
    ],
    "new": false
@@ -3975,6 +3987,14 @@
     {
      "name": "Crystalis Motus Leona",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_50.jpg"
+    },
+    {
+     "name": "Battle Lion Leona",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_52.jpg"
+    },
+    {
+     "name": "Prestige Battle Lion Leona",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_53.jpg"
     }
    ],
    "new": false
@@ -8653,6 +8673,10 @@
     {
      "name": "Foreseen Yasuo",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_68.jpg"
+    },
+    {
+     "name": "Battle Wolf Yasuo",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_77.jpg"
     }
    ],
    "new": false
