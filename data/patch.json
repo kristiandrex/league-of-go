@@ -1,5 +1,5 @@
 {
- "version": "14.15.1",
+ "version": "14.16.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -793,6 +793,10 @@
     {
      "name": "Shan Hai Scrolls Bard",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_26.jpg"
+    },
+    {
+     "name": "T1 Bard",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_35.jpg"
     }
    ],
    "new": false
@@ -2917,6 +2921,14 @@
     {
      "name": "Zenith Games Jayce",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_25.jpg"
+    },
+    {
+     "name": "T1 Jayce",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_34.jpg"
+    },
+    {
+     "name": "Prestige T1 Jayce",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_36.jpg"
     }
    ],
    "new": false
@@ -3033,6 +3045,10 @@
     {
      "name": "Cafe Cuties Jinx",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_51.jpg"
+    },
+    {
+     "name": "T1 Jinx",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_62.jpg"
     }
    ],
    "new": false
@@ -3913,6 +3929,10 @@
     {
      "name": "Divine Heavenscale Lee Sin",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_52.jpg"
+    },
+    {
+     "name": "T1 Lee Sin",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_68.jpg"
     }
    ],
    "new": false
@@ -5409,6 +5429,10 @@
     {
      "name": "Star Guardian Orianna",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_29.jpg"
+    },
+    {
+     "name": "T1 Orianna",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_38.jpg"
     }
    ],
    "new": false
