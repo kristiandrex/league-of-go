@@ -1,5 +1,5 @@
 {
- "version": "14.16.1",
+ "version": "14.17.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -545,6 +545,10 @@
     {
      "name": "Winterblessed Annie",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_40.jpg"
+    },
+    {
+     "name": "Battle Princess Annie",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_50.jpg"
     }
    ],
    "new": false
@@ -1363,6 +1367,10 @@
     {
      "name": "Porcelain Darius",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_54.jpg"
+    },
+    {
+     "name": "Divine God-King Darius",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_64.jpg"
     }
    ],
    "new": false
@@ -1945,6 +1953,10 @@
     {
      "name": "Dragonmancer Fiora",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_80.jpg"
+    },
+    {
+     "name": "Battle Queen Fiora",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_89.jpg"
     }
    ],
    "new": false
@@ -2193,6 +2205,10 @@
     {
      "name": "Mythmaker Garen",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_33.jpg"
+    },
+    {
+     "name": "Fallen God-King Garen",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_44.jpg"
     }
    ],
    "new": false
@@ -2401,6 +2417,10 @@
     {
      "name": "Soul Fighter Gwen",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_20.jpg"
+    },
+    {
+     "name": "Battle Queen Gwen",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_30.jpg"
     }
    ],
    "new": false
@@ -4689,6 +4709,10 @@
     {
      "name": "Porcelain Miss Fortune",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_50.jpg"
+    },
+    {
+     "name": "Battle Queen Miss Fortune",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_60.jpg"
     }
    ],
    "new": false
