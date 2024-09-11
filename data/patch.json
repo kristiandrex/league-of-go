@@ -1,5 +1,5 @@
 {
- "version": "14.17.1",
+ "version": "14.18.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -759,6 +759,10 @@
     {
      "name": "Worlds 2022 Azir",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_14.jpg"
+    },
+    {
+     "name": "Attorney Azir",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_19.jpg"
     }
    ],
    "new": false
@@ -5087,6 +5091,10 @@
     {
      "name": "Cosmic Paladin Nautilus",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_27.jpg"
+    },
+    {
+     "name": "Crystalis Indomitus Nautilus",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_36.jpg"
     }
    ],
    "new": false
@@ -7505,6 +7513,10 @@
     {
      "name": "Winterblessed Thresh",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_49.jpg"
+    },
+    {
+     "name": "Janitor Thresh",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_59.jpg"
     }
    ],
    "new": false
