@@ -1,5 +1,5 @@
 {
- "version": "14.18.1",
+ "version": "14.19.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -5345,6 +5345,10 @@
     {
      "name": "Cosmic Paladins Nunu \u0026 Willump",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_35.jpg"
+    },
+    {
+     "name": "Fright Night Nunu \u0026 Willump",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_44.jpg"
     }
    ],
    "new": false
@@ -5669,6 +5673,10 @@
     {
      "name": "Prestige Soul Fighter Pyke",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_54.jpg"
+    },
+    {
+     "name": "Fright Night Pyke",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_64.jpg"
     }
    ],
    "new": false
@@ -6565,6 +6573,10 @@
     {
      "name": "Prestige Soul Fighter Shaco",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_44.jpg"
+    },
+    {
+     "name": "Fright Night Shaco",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_54.jpg"
     }
    ],
    "new": false
@@ -6977,6 +6989,10 @@
     {
      "name": "Prestige Immortal Journey Sona",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_46.jpg"
+    },
+    {
+     "name": "Victorious Sona",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_56.jpg"
     }
    ],
    "new": false
@@ -8129,6 +8145,10 @@
     {
      "name": "King Beegar",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_51.jpg"
+    },
+    {
+     "name": "Fright Night Veigar",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_60.jpg"
     }
    ],
    "new": false
@@ -8281,6 +8301,10 @@
     {
      "name": "Soul Fighter Viego",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_30.jpg"
+    },
+    {
+     "name": "Worlds 2024 Viego",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_37.jpg"
     }
    ],
    "new": false
@@ -9001,6 +9025,14 @@
     {
      "name": "Immortal Journey Zeri",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_19.jpg"
+    },
+    {
+     "name": "Fright Night Zeri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_28.jpg"
+    },
+    {
+     "name": "Prestige Fright Night Zeri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_29.jpg"
     }
    ],
    "new": false
