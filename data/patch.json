@@ -1,5 +1,5 @@
 {
- "version": "14.19.1",
+ "version": "14.20.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -2329,6 +2329,10 @@
     {
      "name": "High Noon Gragas",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_29.jpg"
+    },
+    {
+     "name": "Music Fan Gragas",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_39.jpg"
     }
    ],
    "new": false
@@ -5137,6 +5141,10 @@
     {
      "name": "Street Demons Neeko",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_31.jpg"
+    },
+    {
+     "name": "Cosplayer Neeko",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_40.jpg"
     }
    ],
    "new": false
@@ -6871,6 +6879,10 @@
     {
      "name": "Primal Ambush Sivir",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_61.jpg"
+    },
+    {
+     "name": "Ann-Sivir-sary",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_70.jpg"
     }
    ],
    "new": false
@@ -7649,6 +7661,10 @@
     {
      "name": "Fright Night Trundle",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_12.jpg"
+    },
+    {
+     "name": "Esports Fan Trundle",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_21.jpg"
     }
    ],
    "new": false
@@ -8761,6 +8777,10 @@
     {
      "name": "Battle Wolf Yasuo",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_77.jpg"
+    },
+    {
+     "name": "Genesis Nightbringer Yasuo",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_87.jpg"
     }
    ],
    "new": false
