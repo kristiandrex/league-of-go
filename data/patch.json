@@ -1,5 +1,5 @@
 {
- "version": "14.20.1",
+ "version": "14.21.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1437,6 +1437,14 @@
     {
      "name": "Heavenscale Diana",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_54.jpg"
+    },
+    {
+     "name": "Dark Cosmic Diana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_64.jpg"
+    },
+    {
+     "name": "Prestige Dark Cosmic Diana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_65.jpg"
     }
    ],
    "new": false
@@ -3165,6 +3173,10 @@
     {
      "name": "Heavenscale Kai'Sa",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_59.jpg"
+    },
+    {
+     "name": "Dark Star Kai'Sa",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_69.jpg"
     }
    ],
    "new": false
@@ -7167,6 +7179,10 @@
     {
      "name": "Winterblessed Sylas",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_36.jpg"
+    },
+    {
+     "name": "Dark Star Sylas",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_46.jpg"
     }
    ],
    "new": false
@@ -8873,6 +8889,10 @@
     {
      "name": "Spirit Blossom Yorick",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_30.jpg"
+    },
+    {
+     "name": "Dark Star Yorick",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_40.jpg"
     }
    ],
    "new": false
@@ -9195,6 +9215,10 @@
     {
      "name": "Winterblessed Zoe",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_22.jpg"
+    },
+    {
+     "name": "Dark Star Zoe",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_33.jpg"
     }
    ],
    "new": false
