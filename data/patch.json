@@ -1,5 +1,5 @@
 {
- "version": "14.21.1",
+ "version": "14.22.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -342,6 +342,24 @@
     }
    ],
    "new": false
+  },
+  {
+   "id": "Ambessa",
+   "name": "Ambessa",
+   "title": "Matriarch of War",
+   "lore": "All who know the name Medarda respect and fear the family's leader, Ambessa. As a Noxian general, she embodies a deadly combination of ruthless strength and fearless resolve in battle. Her role as matriarch is no different, requiring great cunning to empower the Medardas while leaving no room for failure or compassion. Embracing the merciless ways of the Wolf, Ambessa will do whatever it takes to protect her family's legacy, even at the cost of her own children's love.",
+   "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ambessa_0.jpg",
+   "skins": [
+    {
+     "name": "default",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_0.jpg"
+    },
+    {
+     "name": "Chosen of the Wolf Ambessa",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_1.jpg"
+    }
+   ],
+   "new": true
   },
   {
    "id": "Amumu",
@@ -3459,6 +3477,10 @@
     {
      "name": "Prestige Faerie Court Katarina",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_48.jpg"
+    },
+    {
+     "name": "Chosen of the Wolf Katarina",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_59.jpg"
     }
    ],
    "new": false
@@ -3717,6 +3739,10 @@
     {
      "name": "Prestige Porcelain Kindred",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_33.jpg"
+    },
+    {
+     "name": "Chosen of the Wolf Kindred",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_34.jpg"
     }
    ],
    "new": false
@@ -5581,6 +5607,10 @@
     {
      "name": "Ashen Conqueror Pantheon",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_36.jpg"
+    },
+    {
+     "name": "Chosen of the Wolf Pantheon",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_38.jpg"
     }
    ],
    "new": false
@@ -7137,6 +7167,14 @@
     {
      "name": "Winterblessed Swain",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_21.jpg"
+    },
+    {
+     "name": "Chosen of the Wolf Swain",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_32.jpg"
+    },
+    {
+     "name": "Prestige Chosen of the Wolf Swain",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_33.jpg"
     }
    ],
    "new": false
