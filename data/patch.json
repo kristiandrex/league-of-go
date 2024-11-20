@@ -1,5 +1,5 @@
 {
- "version": "14.22.1",
+ "version": "14.23.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -359,7 +359,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_1.jpg"
     }
    ],
-   "new": true
+   "new": false
   },
   {
    "id": "Amumu",
@@ -1057,7 +1057,7 @@
    "id": "Caitlyn",
    "name": "Caitlyn",
    "title": "the Sheriff of Piltover",
-   "lore": "Renowned as its finest peacekeeper, Caitlyn is also Piltover's best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn's most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.",
+   "lore": "Renowned as its finest peacekeeper, Caitlyn Kiramman is also Piltover's best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner's more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn's most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_0.jpg",
    "skins": [
     {
@@ -1131,6 +1131,14 @@
     {
      "name": "DRX Caitlyn",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_48.jpg"
+    },
+    {
+     "name": "Arcane Commander Caitlyn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_50.jpg"
+    },
+    {
+     "name": "Prestige Arcane Commander Caitlyn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_51.jpg"
     }
    ],
    "new": false
@@ -1591,7 +1599,7 @@
    "id": "Ekko",
    "name": "Ekko",
    "title": "the Boy Who Shattered Time",
-   "lore": "A prodigy from the rough streets of Zaun, Ekko manipulates time to twist any situation to his advantage. Using his own invention, the Zero Drive, he explores the branching possibilities of reality to craft the perfect moment. Though he revels in this freedom, when there's a threat to his friends he'll do anything to defend them. To outsiders, Ekko seems to achieve the impossible the first time, every time.",
+   "lore": "A prodigy from the rough streets of Zaun, Ekko is able to manipulate time to twist any situation to his advantage. He uses his own invention, the Z-Drive, to explore the branching possibilities of reality, crafting the perfect moment to seemingly achieve the impossible the first time, every time. Though Ekko revels in this freedom, when there's a threat to those he cares about, he and the Firelights will do anything to defend them.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ekko_0.jpg",
    "skins": [
     {
@@ -2521,7 +2529,7 @@
    "id": "Heimerdinger",
    "name": "Heimerdinger",
    "title": "the Revered Inventor",
-   "lore": "A brilliant yet eccentric yordle scientist, Professor Cecil B. Heimerdinger is one of the most innovative and esteemed inventors Piltover has ever known. Relentless in his work to the point of neurotic obsession, he thrives on answering the universe's most impenetrable questions. Though his theories often appear opaque and esoteric, Heimerdinger has crafted some of Piltover's most miraculous—not to mention lethal—machinery, and constantly tinkers with his inventions to make them even more efficient.",
+   "lore": "The eccentric Professor Cecil B. Heimerdinger is one of the most innovative and esteemed inventors the world has ever known. As the longest serving member of the Council of Piltover, he saw the best and the worst of the city's unending desire for progress. Nonetheless, this brilliant scientist and teacher will always remain dedicated to using his unconventional devices to improve the lives of others.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Heimerdinger_0.jpg",
    "skins": [
     {
@@ -2937,7 +2945,7 @@
    "id": "Jayce",
    "name": "Jayce",
    "title": "the Defender of Tomorrow",
-   "lore": "Jayce is a brilliant inventor who has pledged his life to the defense of Piltover and its unyielding pursuit of progress. With his transforming hextech hammer in hand, Jayce uses his strength, courage, and considerable intelligence to protect his hometown. While revered throughout the city as a hero, he hasn't taken well to the attention heroism brings. Still, Jayce's heart is in the right place, and even those who envy his natural skills are grateful for his protection in the City of Progress.",
+   "lore": "Jayce Talis is a brilliant inventor who, along with his friend Viktor, made the first great discoveries in the field of hextech. Celebrated across Piltover, he tries to live up to his reputation as \"the Man of Progress,\" but often struggles with the expectations placed upon him. Because of this, Jayce has begun to see the ways in which his invention has furthered the division between Piltover and Zaun—and armed with his hextech hammer, he stands ready to defend tomorrow.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_0.jpg",
    "skins": [
     {
@@ -2979,6 +2987,10 @@
     {
      "name": "T1 Jayce",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_34.jpg"
+    },
+    {
+     "name": "Arcane Survivor Jayce",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_35.jpg"
     },
     {
      "name": "Prestige T1 Jayce",
@@ -3045,7 +3057,7 @@
    "id": "Jinx",
    "name": "Jinx",
    "title": "the Loose Cannon",
-   "lore": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand of pandemonium wherever she goes.",
+   "lore": "An unhinged and impulsive criminal from the undercity, Jinx is haunted by the consequences of her past—but that doesn't stop her from bringing her own chaotic brand of pandemonium to Piltover and Zaun. She uses her arsenal of DIY weapons to devastating effect, unleashing torrents of colorful explosions and gunfire, inspiring the disenfranchised to rebellion and resistance with the mayhem she leaves in her wake.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_0.jpg",
    "skins": [
     {
@@ -4165,7 +4177,7 @@
    "id": "Lucian",
    "name": "Lucian",
    "title": "the Purifier",
-   "lore": "Lucian, a Sentinel of Light, is a grim hunter of undying spirits, pursuing them relentlessly and annihilating them with his twin relic pistols. After the wraith Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
+   "lore": "Lucian, a Sentinel of Light, is a grim hunter of wraiths and specters, pursuing them relentlessly and annihilating them with his twin relic pistols. After the specter Thresh slew his wife, Lucian embarked on the path of vengeance—but even with her return to life, his rage is undiminished. Merciless and single-minded, Lucian will stop at nothing to protect the living from the long-dead horrors of the Black Mist.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lucian_0.jpg",
    "skins": [
     {
@@ -6419,7 +6431,7 @@
    "id": "Senna",
    "name": "Senna",
    "title": "the Redeemer",
-   "lore": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel wraith Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.",
+   "lore": "Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back—only to be killed, her soul imprisoned in a lantern by the cruel specter Thresh. But refusing to lose hope, within the lantern Senna learned to use the Mist, and reemerged to new life, forever changed. Now wielding darkness along with light, Senna seeks to end the Black Mist by turning it against itself—with every blast of her relic weapon, redeeming the souls lost within.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Senna_0.jpg",
    "skins": [
     {
@@ -6739,7 +6751,7 @@
    "id": "Singed",
    "name": "Singed",
    "title": "the Mad Chemist",
-   "lore": "Singed is a Zaunite alchemist of unmatched intellect, who has devoted his life to pushing the boundaries of knowledge—with no price, even his own sanity, too high to pay. Is there a method to his madness? His concoctions rarely fail, but it appears to many that Singed has lost all sense of humanity, leaving a toxic trail of misery and terror in his wake.",
+   "lore": "Singed is a brilliant alchemist of dubious morality, whose experiments would turn the stomach of even the most cutthroat criminal. Selling his skills to the highest bidder, he cares little for how his noxious concoctions are used, with the ensuing chaos an experiment in itself. His most infamous work is “shimmer”, which enabled the chembarons to turn Zaun into their personal playground—but fueled by madness, Singed is always working on something new, with each endeavor more depraved than the last...",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_0.jpg",
    "skins": [
     {
@@ -6789,6 +6801,10 @@
     {
      "name": "Astronaut Singed",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_19.jpg"
+    },
+    {
+     "name": "Arcane Shimmer Lab Singed",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_28.jpg"
     }
    ],
    "new": false
@@ -7529,7 +7545,7 @@
    "id": "Thresh",
    "name": "Thresh",
    "title": "the Chain Warden",
-   "lore": "Sadistic and cunning, Thresh is an ambitious and restless spirit of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.",
+   "lore": "Sadistic and cunning, Thresh is an ambitious and restless specter of the Shadow Isles. Once the custodian of countless arcane secrets, he was undone by a power greater than life or death, and now sustains himself by tormenting and breaking others with slow, excruciating inventiveness. His victims suffer far beyond their brief mortal coil as Thresh wreaks agony upon their souls, imprisoning them in his unholy lantern to torture for all eternity.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_0.jpg",
    "skins": [
     {
@@ -8287,7 +8303,7 @@
    "id": "Vi",
    "name": "Vi",
    "title": "the Piltover Enforcer",
-   "lore": "Once a criminal from the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with only a very loose respect for authority figures. Growing up all but alone, Vi developed finely honed survival instincts as well as a wickedly abrasive sense of humor. Now working with the Wardens of Piltover to keep the peace, she wields mighty hextech gauntlets that can punch through walls and suspects with equal ease.",
+   "lore": "Raised on the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with very little respect for authority. She has always been a shrewd survivor, both from her youthful troublemaking topside and an unfairly long stint in Stillwater Hold. Now working with the Piltover Enforcers to keep the peace instead of breaking it, she wields mighty hextech gauntlets that can punch through walls—and criminals—with equal ease.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vi_0.jpg",
    "skins": [
     {
@@ -8337,6 +8353,10 @@
     {
      "name": "Primal Ambush Vi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_39.jpg"
+    },
+    {
+     "name": "Arcane Brawler Vi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_48.jpg"
     }
    ],
    "new": false
@@ -8345,7 +8365,7 @@
    "id": "Viego",
    "name": "Viego",
    "title": "The Ruined King",
-   "lore": "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving wraith tortured by an obsessive longing for his centuries-dead queen, Viego now stands as the Ruined King, controlling the deadly Harrowings as he scours Runeterra for anything that might one day restore her, and destroying all in his path as the Black Mist pours endlessly from his cruel, broken heart.",
+   "lore": "Once ruler of a long-lost kingdom, Viego perished over a thousand years ago when his attempt to bring his wife back from the dead triggered the magical catastrophe known as the Ruination. Transformed into a powerful, unliving specter tortured by an obsessive longing for his centuries-dead queen, Viego now stands as the Ruined King, controlling the deadly Harrowings as he scours Runeterra for anything that might one day restore her, and destroying all in his path as the Black Mist pours endlessly from his cruel, broken heart.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viego_0.jpg",
    "skins": [
     {
@@ -8533,7 +8553,7 @@
    "id": "Warwick",
    "name": "Warwick",
    "title": "the Uncaged Wrath of Zaun",
-   "lore": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. Bursting out of the shadows, he preys upon those criminals who terrorize the city's depths. Warwick is drawn to blood, and driven mad by its scent. None who spill it can escape him.",
+   "lore": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. He bursts from the shadows to prey upon those criminals who terrorize the city's depths. Warwick is drawn to blood, driven mad by its scent… and none who spill it can escape him.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_0.jpg",
    "skins": [
     {
@@ -8893,7 +8913,7 @@
    "id": "Yorick",
    "name": "Yorick",
    "title": "Shepherd of Souls",
-   "lore": "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that he gathers to him. Yorick's monstrous actions belie his noble purpose: to free his home from the curse of the Ruination.",
+   "lore": "The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking wraiths that he gathers to him. Yorick's monstrous actions belie his noble purpose: to free his home from the curse of the Ruination.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yorick_0.jpg",
    "skins": [
     {
