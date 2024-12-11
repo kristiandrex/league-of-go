@@ -1,5 +1,5 @@
 {
- "version": "14.23.1",
+ "version": "14.24.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1113,7 +1113,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_22.jpg"
     },
     {
-     "name": "Arcane Caitlyn",
+     "name": "Arcane Enforcer Caitlyn",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_28.jpg"
     },
     {
@@ -1635,7 +1635,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_28.jpg"
     },
     {
-     "name": "Firelight Ekko",
+     "name": "Arcane Firelight Ekko",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_36.jpg"
     },
     {
@@ -1649,6 +1649,10 @@
     {
      "name": "Breakout True Damage Ekko",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_56.jpg"
+    },
+    {
+     "name": "Arcane Last Stand Ekko",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_57.jpg"
     }
    ],
    "new": false
@@ -2567,6 +2571,10 @@
     {
      "name": "Heimerstinger",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_24.jpg"
+    },
+    {
+     "name": "Arcane Professor Heimerdinger",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_33.jpg"
     }
    ],
    "new": false
@@ -2977,7 +2985,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_15.jpg"
     },
     {
-     "name": "Arcane Jayce",
+     "name": "Arcane Inventor Jayce",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_24.jpg"
     },
     {
@@ -3097,7 +3105,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_29.jpg"
     },
     {
-     "name": "Arcane Jinx",
+     "name": "Arcane Enemy Jinx",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_37.jpg"
     },
     {
@@ -3111,6 +3119,10 @@
     {
      "name": "Cafe Cuties Jinx",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_51.jpg"
+    },
+    {
+     "name": "Arcane Fractured Jinx",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_60.jpg"
     },
     {
      "name": "T1 Jinx",
@@ -8343,7 +8355,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_20.jpg"
     },
     {
-     "name": "Arcane Vi",
+     "name": "Arcane Undercity Vi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_29.jpg"
     },
     {
@@ -8402,8 +8414,8 @@
   {
    "id": "Viktor",
    "name": "Viktor",
-   "title": "the Machine Herald",
-   "lore": "The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology can humanity's full potential be realized. With a body augmented by steel and science, Viktor is zealous in his pursuit of this bright future.",
+   "title": "the Herald of the Arcane",
+   "lore": "The fully biomechanical evolution of his former self, Viktor has embraced his Glorious Evolution and become something of a messiah to his followers. He sacrificed his own humanity under the logic that eliminating emotion would thereby eliminate suffering—and now seeks to bring the revelation of the hexcore to the rest of the world, even if they're incapable of understanding the benefit. After all, to this master of the arcane, violence is merely a variable necessary to balance the ultimate equation.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viktor_0.jpg",
    "skins": [
     {
@@ -8433,6 +8445,10 @@
     {
      "name": "High Noon Viktor",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_14.jpg"
+    },
+    {
+     "name": "Arcane Savior Viktor",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_24.jpg"
     }
    ],
    "new": false
@@ -8615,6 +8631,10 @@
     {
      "name": "Prestige Winterblessed Warwick",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_46.jpg"
+    },
+    {
+     "name": "Arcane Vander Warwick",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_56.jpg"
     }
    ],
    "new": false
