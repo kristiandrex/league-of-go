@@ -1,5 +1,5 @@
 {
- "version": "14.24.1",
+ "version": "15.1.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1699,6 +1699,10 @@
     {
      "name": "Coven Elise",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_24.jpg"
+    },
+    {
+     "name": "Masque of the Black Rose Elise",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_34.jpg"
     }
    ],
    "new": false
@@ -1867,6 +1871,10 @@
     {
      "name": "Prestige Heavenscale Ezreal",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_54.jpg"
+    },
+    {
+     "name": "Masque of the Black Rose Ezreal",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_65.jpg"
     }
    ],
    "new": false
@@ -3505,6 +3513,10 @@
     {
      "name": "Chosen of the Wolf Katarina",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_59.jpg"
+    },
+    {
+     "name": "Prestige Masque of the Black Rose Katarina",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_60.jpg"
     }
    ],
    "new": false
@@ -4659,6 +4671,10 @@
     {
      "name": "Heavenscale Master Yi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_96.jpg"
+    },
+    {
+     "name": "Victorious Master Yi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_106.jpg"
     }
    ],
    "new": false
@@ -6041,6 +6057,10 @@
     {
      "name": "Prestige La Ilusión Renata Glasc",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_21.jpg"
+    },
+    {
+     "name": "Masque of the Black Rose Renata Glasc",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_31.jpg"
     }
    ],
    "new": false
@@ -6373,6 +6393,10 @@
     {
      "name": "Soul Fighter Samira",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_30.jpg"
+    },
+    {
+     "name": "Masque of the Black Rose Samira",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_33.jpg"
     }
    ],
    "new": false
@@ -6581,6 +6605,10 @@
     {
      "name": "HEARTSTEEL Sett",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_56.jpg"
+    },
+    {
+     "name": "Radiant Serpent Sett",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_66.jpg"
     }
    ],
    "new": false
@@ -8511,6 +8539,10 @@
     {
      "name": "Broken Covenant Vladimir",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_39.jpg"
+    },
+    {
+     "name": "Masque of the Black Rose Vladimir",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_48.jpg"
     }
    ],
    "new": false
