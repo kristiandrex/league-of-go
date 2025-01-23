@@ -1,5 +1,5 @@
 {
- "version": "15.1.1",
+ "version": "15.2.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -423,6 +423,10 @@
     {
      "name": "Heartache Amumu",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_44.jpg"
+    },
+    {
+     "name": "Dumpling Darlings Amumu",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_53.jpg"
     }
    ],
    "new": false
@@ -1227,6 +1231,10 @@
     {
      "name": "Bewitching Cassiopeia",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_28.jpg"
+    },
+    {
+     "name": "Prestige Mythmaker Cassiopeia",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_38.jpg"
     }
    ],
    "new": false
@@ -2875,6 +2883,10 @@
     {
      "name": "Nightbringer Jarvan IV",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_35.jpg"
+    },
+    {
+     "name": "Mythmaker Jarvan IV",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_44.jpg"
     }
    ],
    "new": false
@@ -3065,6 +3077,10 @@
     {
      "name": "Dark Cosmic Erasure Jhin",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_37.jpg"
+    },
+    {
+     "name": "Mythmaker Jhin",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_47.jpg"
     }
    ],
    "new": false
@@ -4680,6 +4696,24 @@
    "new": false
   },
   {
+   "id": "Mel",
+   "name": "Mel",
+   "title": "the Soul's Reflection",
+   "lore": "Mel Medarda is the presumed heir of the Medarda family, once one of the most powerful in Noxus. In appearance she is a graceful aristocrat, but beneath the surface lies a skilled politician who makes it her business to know everything about everyone she meets. After an encounter with the mysterious Black Rose, Mel discovered the depths of her mother's deception and, for once, faced a situation potentially beyond her control. With newly awakened magical abilities, she sailed home in search of answers—and though many still seek to temper the light within her, Mel's soul remains forever defiant.",
+   "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mel_0.jpg",
+   "skins": [
+    {
+     "name": "default",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_0.jpg"
+    },
+    {
+     "name": "Arcane Councilor Mel",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_1.jpg"
+    }
+   ],
+   "new": true
+  },
+  {
    "id": "Milio",
    "name": "Milio",
    "title": "The Gentle Flame",
@@ -5061,6 +5095,10 @@
     {
      "name": "Coven Nami",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_51.jpg"
+    },
+    {
+     "name": "Mythmaker Nami",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_58.jpg"
     }
    ],
    "new": false
@@ -6559,6 +6597,10 @@
     {
      "name": "Battle Dove Seraphine",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_43.jpg"
+    },
+    {
+     "name": "Dumpling Darlings Seraphine",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_50.jpg"
     }
    ],
    "new": false
@@ -6737,6 +6779,10 @@
     {
      "name": "Ashen Guardian Shen",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_49.jpg"
+    },
+    {
+     "name": "Three Honors Shen",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_51.jpg"
     }
    ],
    "new": false
@@ -7339,6 +7385,10 @@
     {
      "name": "Coven Syndra",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_54.jpg"
+    },
+    {
+     "name": "Dumpling Darlings Syndra",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_65.jpg"
     }
    ],
    "new": false
