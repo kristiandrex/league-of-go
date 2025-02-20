@@ -1,5 +1,5 @@
 {
- "version": "15.3.1",
+ "version": "15.4.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -4271,6 +4271,10 @@
     {
      "name": "Winterblessed Lucian",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_52.jpg"
+    },
+    {
+     "name": "Masked Justice Lucian",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_62.jpg"
     }
    ],
    "new": false
@@ -6547,6 +6551,10 @@
     {
      "name": "Winterblessed Senna",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_56.jpg"
+    },
+    {
+     "name": "Masked Justice Senna",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_63.jpg"
     }
    ],
    "new": false
@@ -9007,6 +9015,10 @@
     {
      "name": "Peacemaker High Noon Yone",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_58.jpg"
+    },
+    {
+     "name": "Masked Justice Yone",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_65.jpg"
     }
    ],
    "new": false
@@ -9199,6 +9211,10 @@
     {
      "name": "Blood Moon Zed",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_58.jpg"
+    },
+    {
+     "name": "Quantum Galaxy Slayer Zed",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_68.jpg"
     }
    ],
    "new": false
