@@ -1,5 +1,5 @@
 {
- "version": "15.5.1",
+ "version": "15.6.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -3657,6 +3657,10 @@
     {
      "name": "HEARTSTEEL Kayn",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_20.jpg"
+    },
+    {
+     "name": "Battle Academia Kayn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_26.jpg"
     }
    ],
    "new": false
@@ -5863,6 +5867,10 @@
     {
      "name": "La Ilusión Qiyana",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_40.jpg"
+    },
+    {
+     "name": "Prestige Battle Academia Qiyana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_50.jpg"
     }
    ],
    "new": false
@@ -5959,6 +5967,10 @@
     {
      "name": "Prestige Dragonmancer Rakan",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_38.jpg"
+    },
+    {
+     "name": "Battle Academia Rakan",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_47.jpg"
     }
    ],
    "new": false
@@ -8803,6 +8815,10 @@
     {
      "name": "Battle Bat Xayah",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_47.jpg"
+    },
+    {
+     "name": "Battle Academia Xayah",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_57.jpg"
     }
    ],
    "new": false
