@@ -1,5 +1,5 @@
 {
- "version": "15.6.1",
+ "version": "15.7.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1031,6 +1031,10 @@
     {
      "name": "Pool Party Braum",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_33.jpg"
+    },
+    {
+     "name": "Grill Master Braum",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_42.jpg"
     }
    ],
    "new": false
@@ -2271,6 +2275,10 @@
     {
      "name": "Mythmaker Garen",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_33.jpg"
+    },
+    {
+     "name": "Pengu Garen",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_43.jpg"
     },
     {
      "name": "Fallen God-King Garen",
@@ -4509,6 +4517,10 @@
     {
      "name": "Lunar Guardian Malphite",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_37.jpg"
+    },
+    {
+     "name": "Pool Party Malphite",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_48.jpg"
     }
    ],
    "new": false
@@ -5049,6 +5061,10 @@
     {
      "name": "PROJECT: Naafiri",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_11.jpg"
+    },
+    {
+     "name": "Glizzy Naafiri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Naafiri_20.jpg"
     }
    ],
    "new": false
@@ -6753,6 +6769,10 @@
     {
      "name": "Fright Night Shaco",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_54.jpg"
+    },
+    {
+     "name": "Cat-in-the-Box Shaco",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_64.jpg"
     }
    ],
    "new": false
@@ -8143,6 +8163,10 @@
     {
      "name": "Fright Night Urgot",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_23.jpg"
+    },
+    {
+     "name": "Urgot the Clogfather",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_32.jpg"
     }
    ],
    "new": false
