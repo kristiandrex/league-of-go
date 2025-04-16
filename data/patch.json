@@ -1,5 +1,5 @@
 {
- "version": "15.7.1",
+ "version": "15.8.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -4583,6 +4583,10 @@
     {
      "name": "Empyrean Malzahar",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_39.jpg"
+    },
+    {
+     "name": "Fatebreaker Malzahar",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_49.jpg"
     }
    ],
    "new": false
@@ -4965,6 +4969,10 @@
     {
      "name": "Old God Mordekaiser",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_44.jpg"
+    },
+    {
+     "name": "Sahn-Uzal Mordekaiser",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_54.jpg"
     }
    ],
    "new": false
@@ -5193,6 +5201,10 @@
     {
      "name": "Nightbringer Nasus",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_45.jpg"
+    },
+    {
+     "name": "Fatemaker Nasus",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_54.jpg"
     }
    ],
    "new": false
@@ -7617,6 +7629,10 @@
     {
      "name": "Space Groove Taric",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_18.jpg"
+    },
+    {
+     "name": "Fatebreaker Taric",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_27.jpg"
     }
    ],
    "new": false
@@ -8021,6 +8037,10 @@
     {
      "name": "Space Groove Twisted Fate",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_36.jpg"
+    },
+    {
+     "name": "Victorious Twisted Fate",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_45.jpg"
     }
    ],
    "new": false
