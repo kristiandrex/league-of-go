@@ -1,5 +1,5 @@
 {
- "version": "15.8.1",
+ "version": "15.9.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -691,6 +691,10 @@
     {
      "name": "Infernal Ashe",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_67.jpg"
+    },
+    {
+     "name": "Spirit Blossom Ashe",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_76.jpg"
     }
    ],
    "new": false
@@ -827,6 +831,10 @@
     {
      "name": "T1 Bard",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_35.jpg"
+    },
+    {
+     "name": "Spirit Blossom Bard",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_37.jpg"
     }
    ],
    "new": false
@@ -2341,7 +2349,7 @@
    "id": "Gragas",
    "name": "Gragas",
    "title": "the Rabble Rouser",
-   "lore": "Equal parts jolly and imposing, Gragas is a massive, rowdy brewmaster on his own quest for the perfect pint of ale. Hailing from parts unknown, he now searches for rare ingredients among the unblemished wastes of the Freljord, trying each recipe as he goes. Often intoxicated and extremely impulsive, he is legendary for the brawls he starts, which often end in all-night parties and widespread property damage. Any appearance from Gragas must surely foreshadow drinking and destruction—in that order.",
+   "lore": "Equal parts jolly and imposing, Gragas is a massive, rowdy brewmaster who's always on the lookout for new ways to raise everyone's spirits. Hailing from parts unknown, he searches for ingredients among the unblemished wastes of the Freljord to help him perfect his latest concoction. He is impulsive, headstrong, and renowned for the brawls he starts, which often end in all-night parties and widespread property damage. Any appearance from Gragas must surely foreshadow merriment and destruction—in that order.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_0.jpg",
    "skins": [
     {
@@ -2729,6 +2737,10 @@
     {
      "name": "Porcelain Irelia",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_45.jpg"
+    },
+    {
+     "name": "Spirit Blossom Irelia",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_55.jpg"
     }
    ],
    "new": false
@@ -2759,6 +2771,10 @@
     {
      "name": "Astronaut Ivern",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_20.jpg"
+    },
+    {
+     "name": "Spirit Blossom Ivern",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_30.jpg"
     }
    ],
    "new": false
@@ -4451,6 +4467,10 @@
     {
      "name": "Faerie Court Lux",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_61.jpg"
+    },
+    {
+     "name": "Prestige Spirit Blossom Lux",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_70.jpg"
     }
    ],
    "new": false
@@ -8107,6 +8127,10 @@
     {
      "name": "Cheddar Chief Twitch",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_55.jpg"
+    },
+    {
+     "name": "Pool Party Twitch",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_64.jpg"
     }
    ],
    "new": false
@@ -8253,6 +8277,10 @@
     {
      "name": "Empyrean Varus",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_53.jpg"
+    },
+    {
+     "name": "Spirit Blossom Varus",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_60.jpg"
     }
    ],
    "new": false
@@ -9533,6 +9561,10 @@
     {
      "name": "Blood Moon Zyra",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_55.jpg"
+    },
+    {
+     "name": "Spirit Blossom Zyra",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_64.jpg"
     }
    ],
    "new": false
