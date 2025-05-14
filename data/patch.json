@@ -1,5 +1,5 @@
 {
- "version": "15.9.1",
+ "version": "15.10.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -6477,6 +6477,10 @@
     {
      "name": "Arcana Ryze",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_20.jpg"
+    },
+    {
+     "name": "Blood Moon Ryze",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_29.jpg"
     }
    ],
    "new": false
@@ -8497,6 +8501,10 @@
     {
      "name": "Empyrean Vex",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_10.jpg"
+    },
+    {
+     "name": "Stargazer Vex",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_20.jpg"
     }
    ],
    "new": false
@@ -9173,6 +9181,10 @@
     {
      "name": "Dark Star Yorick",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_40.jpg"
+    },
+    {
+     "name": "High Noon Yorick",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_50.jpg"
     }
    ],
    "new": false
