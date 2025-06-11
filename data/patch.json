@@ -1,5 +1,5 @@
 {
- "version": "15.11.1",
+ "version": "15.12.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -2285,10 +2285,6 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_33.jpg"
     },
     {
-     "name": "Pengu Garen",
-     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_43.jpg"
-    },
-    {
      "name": "Fallen God-King Garen",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_44.jpg"
     }
@@ -3275,6 +3271,14 @@
     {
      "name": "Dark Star Kai'Sa",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_69.jpg"
+    },
+    {
+     "name": "Risen Legend Kai'Sa",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_70.jpg"
+    },
+    {
+     "name": "Immortalized Legend Kai'Sa",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_71.jpg"
     }
    ],
    "new": false
@@ -4087,6 +4091,10 @@
     {
      "name": "T1 Lee Sin",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_68.jpg"
+    },
+    {
+     "name": "Inkshadow Lee Sin",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_72.jpg"
     }
    ],
    "new": false
@@ -5421,6 +5429,10 @@
     {
      "name": "Coven Nilah",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_11.jpg"
+    },
+    {
+     "name": "Inkshadow Nilah",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_21.jpg"
     }
    ],
    "new": false
@@ -5869,6 +5881,10 @@
     {
      "name": "Fright Night Pyke",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_64.jpg"
+    },
+    {
+     "name": "Inkshadow Pyke",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_74.jpg"
     }
    ],
    "new": false
@@ -6245,6 +6261,10 @@
     {
      "name": "Worlds 2023 Renekton",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_42.jpg"
+    },
+    {
+     "name": "Inkshadow Renekton",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_48.jpg"
     }
    ],
    "new": false
@@ -8367,6 +8387,10 @@
     {
      "name": "Dragonmancer Vayne",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_55.jpg"
+    },
+    {
+     "name": "Risen Legend Vayne",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_64.jpg"
     }
    ],
    "new": false
