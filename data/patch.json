@@ -1,5 +1,5 @@
 {
- "version": "15.12.1",
+ "version": "15.13.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -243,6 +243,10 @@
     {
      "name": "Empyrean Akali",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_82.jpg"
+    },
+    {
+     "name": "Spirit Blossom Akali",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_92.jpg"
     }
    ],
    "new": false
@@ -1805,6 +1809,10 @@
     {
      "name": "Prestige High Noon Evelynn",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_53.jpg"
+    },
+    {
+     "name": "Nightbringer Evelynn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_64.jpg"
     }
    ],
    "new": false
@@ -2629,6 +2637,10 @@
     {
      "name": "Winterblessed Hwei",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_1.jpg"
+    },
+    {
+     "name": "Spirit Blossom Hwei",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_11.jpg"
     }
    ],
    "new": false
@@ -2845,6 +2857,10 @@
     {
      "name": "Heavenscale Janna",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_56.jpg"
+    },
+    {
+     "name": "Dawnbringer Janna",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_66.jpg"
     }
    ],
    "new": false
@@ -3383,6 +3399,10 @@
     {
      "name": "Infernal Karma",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_61.jpg"
+    },
+    {
+     "name": "Spirit Blossom Karma",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_70.jpg"
     }
    ],
    "new": false
@@ -3647,6 +3667,10 @@
     {
      "name": "Prestige Empyrean Kayle",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_67.jpg"
+    },
+    {
+     "name": "Spirit Blossom Kayle",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_78.jpg"
     }
    ],
    "new": false
@@ -5075,6 +5099,10 @@
     {
      "name": "Porcelain Morgana",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_70.jpg"
+    },
+    {
+     "name": "Spirit Blossom Morgana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_80.jpg"
     }
    ],
    "new": false
@@ -5407,6 +5435,10 @@
     {
      "name": "La Ilusión Nidalee",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_48.jpg"
+    },
+    {
+     "name": "Spirit Blossom Nidalee",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_58.jpg"
     }
    ],
    "new": false
@@ -9359,6 +9391,10 @@
     {
      "name": "Quantum Galaxy Slayer Zed",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_68.jpg"
+    },
+    {
+     "name": "Prestige Spirit Blossom Zed",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_69.jpg"
     }
    ],
    "new": false
