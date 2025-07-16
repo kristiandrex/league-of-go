@@ -1,5 +1,5 @@
 {
- "version": "15.13.1",
+ "version": "15.14.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -2569,6 +2569,10 @@
     {
      "name": "Winterblessed Hecarim",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_31.jpg"
+    },
+    {
+     "name": "Nightbringer Hecarim",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_41.jpg"
     }
    ],
    "new": false
@@ -3329,6 +3333,10 @@
     {
      "name": "Faerie Court Kalista",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_14.jpg"
+    },
+    {
+     "name": "Dawnbringer Kalista",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_24.jpg"
     }
    ],
    "new": false
@@ -9246,6 +9254,24 @@
    "new": false
   },
   {
+   "id": "Yunara",
+   "name": "Yunara",
+   "title": "the Unbroken Faith",
+   "lore": "Unwavering in her devotion to Ionia, Yunara has spent centuries cloistered away in the spirit realm honing her skills with the Aion Er'na, a legendary Kinkou relic. Despite all she has sacrificed, Yunara's vow to rid the land of disharmony and strife remains unbroken, as does her faith. But the world that now awaits her—and the shadow of an ancient threat risen once more—will test every ounce of her resolve.",
+   "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yunara_0.jpg",
+   "skins": [
+    {
+     "name": "default",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_0.jpg"
+    },
+    {
+     "name": "Spirit Blossom Springs Yunara",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_1.jpg"
+    }
+   ],
+   "new": true
+  },
+  {
    "id": "Yuumi",
    "name": "Yuumi",
    "title": "the Magical Cat",
@@ -9287,6 +9313,10 @@
     {
      "name": "Prestige Cyber Cat Yuumi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_50.jpg"
+    },
+    {
+     "name": "Nightbringer Yuumi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_61.jpg"
     }
    ],
    "new": false
