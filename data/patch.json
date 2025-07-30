@@ -1,5 +1,5 @@
 {
- "version": "15.14.1",
+ "version": "15.15.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -149,6 +149,14 @@
     {
      "name": "Immortalized Legend Ahri",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_86.jpg"
+    },
+    {
+     "name": "Spirit Blossom Springs Ahri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_88.jpg"
+    },
+    {
+     "name": "After Hours Spirit Blossom Springs Ahri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_89.jpg"
     }
    ],
    "new": false
@@ -609,6 +617,10 @@
     {
      "name": "HEARTSTEEL Aphelios",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_30.jpg"
+    },
+    {
+     "name": "Prestige Spirit Blossom Springs Aphelios",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_40.jpg"
     }
    ],
    "new": false
@@ -6795,6 +6807,10 @@
     {
      "name": "Radiant Serpent Sett",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_66.jpg"
+    },
+    {
+     "name": "Spirit Blossom Springs Sett",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_67.jpg"
     }
    ],
    "new": false
@@ -7301,6 +7317,10 @@
     {
      "name": "Victorious Sona",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_56.jpg"
+    },
+    {
+     "name": "Spirit Blossom Springs Sona",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_66.jpg"
     }
    ],
    "new": false
@@ -7787,6 +7807,10 @@
     {
      "name": "Space Groove Teemo",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_47.jpg"
+    },
+    {
+     "name": "Spirit Blossom Springs Teemo",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_54.jpg"
     }
    ],
    "new": false
@@ -8827,6 +8851,10 @@
     {
      "name": "Inkshadow Volibear",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_19.jpg"
+    },
+    {
+     "name": "Spirit Blossom Springs Volibear",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_29.jpg"
     }
    ],
    "new": false
@@ -9269,7 +9297,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_1.jpg"
     }
    ],
-   "new": true
+   "new": false
   },
   {
    "id": "Yuumi",
