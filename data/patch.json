@@ -1,5 +1,5 @@
 {
- "version": "15.15.1",
+ "version": "15.16.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1371,6 +1371,10 @@
     {
      "name": "Astronaut Corki",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_26.jpg"
+    },
+    {
+     "name": "Brick Toy Corki",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_36.jpg"
     }
    ],
    "new": false
@@ -2055,6 +2059,10 @@
     {
      "name": "Battle Queen Fiora",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_89.jpg"
+    },
+    {
+     "name": "Victorious Fiora",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_98.jpg"
     }
    ],
    "new": false
@@ -4251,6 +4259,10 @@
     {
      "name": "Faerie Court Lillia",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_28.jpg"
+    },
+    {
+     "name": "Bowling League Lillia",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_37.jpg"
     }
    ],
    "new": false
