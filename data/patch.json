@@ -1,5 +1,5 @@
 {
- "version": "15.16.1",
+ "version": "15.17.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -351,6 +351,10 @@
     {
      "name": "Lunar Beast Alistar",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_29.jpg"
+    },
+    {
+     "name": "Elderwood Alistar",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_40.jpg"
     }
    ],
    "new": false
@@ -2315,6 +2319,10 @@
     {
      "name": "Fallen God-King Garen",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_44.jpg"
+    },
+    {
+     "name": "Visions of the Fallen Garen",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_46.jpg"
     }
    ],
    "new": false
@@ -2955,6 +2963,10 @@
     {
      "name": "Mythmaker Jarvan IV",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_44.jpg"
+    },
+    {
+     "name": "Prestige Visions of the Fallen Jarvan IV",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_54.jpg"
     }
    ],
    "new": false
@@ -3149,6 +3161,10 @@
     {
      "name": "Mythmaker Jhin",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_47.jpg"
+    },
+    {
+     "name": "Arcana Jhin",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_55.jpg"
     }
    ],
    "new": false
@@ -4437,6 +4453,10 @@
     {
      "name": "Cafe Cuties Lulu",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_46.jpg"
+    },
+    {
+     "name": "Arcana Lulu",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_55.jpg"
     }
    ],
    "new": false
@@ -8083,6 +8103,10 @@
     {
      "name": "Victorious Tryndamere",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_27.jpg"
+    },
+    {
+     "name": "Visions of the Fallen Tryndamere",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_37.jpg"
     }
    ],
    "new": false
