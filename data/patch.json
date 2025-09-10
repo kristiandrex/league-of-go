@@ -1,5 +1,5 @@
 {
- "version": "15.17.1",
+ "version": "15.18.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -2373,6 +2373,10 @@
     {
      "name": "La Ilusión Gnar",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_31.jpg"
+    },
+    {
+     "name": "T1 Gnar",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_41.jpg"
     }
    ],
    "new": false
@@ -5969,6 +5973,10 @@
     {
      "name": "Inkshadow Pyke",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_74.jpg"
+    },
+    {
+     "name": "T1 Pyke",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_75.jpg"
     }
    ],
    "new": false
@@ -7527,6 +7535,10 @@
     {
      "name": "Dark Star Sylas",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_46.jpg"
+    },
+    {
+     "name": "Prestige T1 Sylas",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_53.jpg"
     }
    ],
    "new": false
@@ -8405,6 +8417,10 @@
     {
      "name": "Spirit Blossom Varus",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_60.jpg"
+    },
+    {
+     "name": "T1 Varus",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_69.jpg"
     }
    ],
    "new": false
@@ -8691,6 +8707,10 @@
     {
      "name": "Arcane Brawler Vi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_48.jpg"
+    },
+    {
+     "name": "T1 Vi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_49.jpg"
     }
    ],
    "new": false
@@ -9263,6 +9283,10 @@
     {
      "name": "Masked Justice Yone",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_65.jpg"
+    },
+    {
+     "name": "T1 Yone",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_74.jpg"
     }
    ],
    "new": false
