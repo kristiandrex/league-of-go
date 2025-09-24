@@ -1,5 +1,5 @@
 {
- "version": "15.18.1",
+ "version": "15.19.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -767,6 +767,10 @@
     {
      "name": "Battle Bunny Aurora",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_1.jpg"
+    },
+    {
+     "name": "Arcana Aurora",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_11.jpg"
     }
    ],
    "new": false
@@ -3501,6 +3505,10 @@
     {
      "name": "Elderwood Karthus",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_26.jpg"
+    },
+    {
+     "name": "Arcana Karthus",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_35.jpg"
     }
    ],
    "new": false
@@ -9647,6 +9655,10 @@
     {
      "name": "Winterblessed Zilean",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_14.jpg"
+    },
+    {
+     "name": "Arcana Zilean",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_24.jpg"
     }
    ],
    "new": false
