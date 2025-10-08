@@ -1,5 +1,5 @@
 {
- "version": "15.19.1",
+ "version": "15.20.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1993,6 +1993,10 @@
     {
      "name": "Blood Moon Fiddlesticks",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_37.jpg"
+    },
+    {
+     "name": "Flora Fatalis Fiddlesticks",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_46.jpg"
     }
    ],
    "new": false
@@ -4337,6 +4341,10 @@
     {
      "name": "Space Groove Lissandra",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_34.jpg"
+    },
+    {
+     "name": "Flora Fatalis Lissandra",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_43.jpg"
     }
    ],
    "new": false
@@ -7447,6 +7455,10 @@
     {
      "name": "Faerie Court Soraka",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_44.jpg"
+    },
+    {
+     "name": "Flora Fatalis Soraka",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_53.jpg"
     }
    ],
    "new": false
@@ -9155,6 +9167,10 @@
     {
      "name": "Firecracker Xin Zhao",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_36.jpg"
+    },
+    {
+     "name": "Trials of Twilight Xin Zhao",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_47.jpg"
     }
    ],
    "new": false
