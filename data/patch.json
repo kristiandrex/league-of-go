@@ -1,5 +1,5 @@
 {
- "version": "15.20.1",
+ "version": "15.21.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -5433,6 +5433,10 @@
     {
      "name": "Cosplayer Neeko",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_40.jpg"
+    },
+    {
+     "name": "Beeko",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_49.jpg"
     }
    ],
    "new": false
@@ -7285,6 +7289,10 @@
     {
      "name": "Cosmic Sting Skarner",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_5.jpg"
+    },
+    {
+     "name": "Mecha Kingdoms Skarner",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_14.jpg"
     }
    ],
    "new": false
@@ -9721,6 +9729,10 @@
     {
      "name": "Dark Star Zoe",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_33.jpg"
+    },
+    {
+     "name": "Prestige Eternal Aspect Zoe",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_43.jpg"
     }
    ],
    "new": false
