@@ -1,5 +1,5 @@
 {
- "version": "15.21.1",
+ "version": "15.22.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1453,6 +1453,10 @@
     {
      "name": "Prestige Triumphant General Darius",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_65.jpg"
+    },
+    {
+     "name": "Mecha Kingdoms Darius",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_67.jpg"
     }
    ],
    "new": false
@@ -4575,6 +4579,10 @@
     {
      "name": "Prestige Spirit Blossom Lux",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_70.jpg"
+    },
+    {
+     "name": "Panda Pal Lux",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_72.jpg"
     }
    ],
    "new": false
@@ -5035,6 +5043,10 @@
     {
      "name": "Elderwood Wukong",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_16.jpg"
+    },
+    {
+     "name": "Mecha Kingdoms Wukong",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_26.jpg"
     }
    ],
    "new": false
@@ -8819,6 +8831,10 @@
     {
      "name": "Arcane Savior Viktor",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_24.jpg"
+    },
+    {
+     "name": "Machine Herald Viktor",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_25.jpg"
     }
    ],
    "new": false
