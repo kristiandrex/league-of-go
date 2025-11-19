@@ -1,5 +1,5 @@
 {
- "version": "15.22.1",
+ "version": "15.23.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -2555,6 +2555,10 @@
     {
      "name": "Battle Queen Gwen",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_30.jpg"
+    },
+    {
+     "name": "Rain Shepherd Gwen",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_39.jpg"
     }
    ],
    "new": false
@@ -8047,6 +8051,10 @@
     {
      "name": "Faerie Court Tristana",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_61.jpg"
+    },
+    {
+     "name": "Rain Shepherd Tristana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_70.jpg"
     }
    ],
    "new": false
@@ -9456,6 +9464,24 @@
     }
    ],
    "new": false
+  },
+  {
+   "id": "Zaahen",
+   "name": "Zaahen",
+   "title": "The Unsundered",
+   "lore": "A fallen god wielding both divine and profane power, Zaahen hunts his fellow Darkin while defying the corruption that threatens to consume him. Once willingly sealed within his glaive to stave off madness, he now walks free, noble in heart and vicious in purpose. Zaahen fights an eternal war within—but so long as he endures, he will rise above all who seek to bring Runeterra to ruin.",
+   "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zaahen_0.jpg",
+   "skins": [
+    {
+     "name": "default",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zaahen_0.jpg"
+    },
+    {
+     "name": "Immortal Journey Zaahen",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zaahen_1.jpg"
+    }
+   ],
+   "new": true
   },
   {
    "id": "Zac",
