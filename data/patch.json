@@ -1,5 +1,5 @@
 {
- "version": "15.23.1",
+ "version": "15.24.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1651,6 +1651,10 @@
     {
      "name": "Grand Reckoning Draven",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_58.jpg"
+    },
+    {
+     "name": "Victorious Draven",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_68.jpg"
     }
    ],
    "new": false
@@ -4419,6 +4423,10 @@
     {
      "name": "Masked Justice Lucian",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_62.jpg"
+    },
+    {
+     "name": "Sunken Shadows Lucian",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_72.jpg"
     }
    ],
    "new": false
@@ -4877,6 +4885,10 @@
     {
      "name": "Arcane Councilor Mel",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_1.jpg"
+    },
+    {
+     "name": "Prestige Winterblessed Mel",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_10.jpg"
     }
    ],
    "new": false
@@ -4899,6 +4911,10 @@
     {
      "name": "Rain Shepherd Milio",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_11.jpg"
+    },
+    {
+     "name": "Winter Wonder Milio",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_20.jpg"
     }
    ],
    "new": false
@@ -5283,6 +5299,10 @@
     {
      "name": "Mythmaker Nami",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_58.jpg"
+    },
+    {
+     "name": "Sunken Shadows Nami",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_68.jpg"
     }
    ],
    "new": false
@@ -7327,6 +7347,10 @@
     {
      "name": "Heavenscale Smolder",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_1.jpg"
+    },
+    {
+     "name": "Reindeer Smolder",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Smolder_11.jpg"
     }
    ],
    "new": false
@@ -9481,7 +9505,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zaahen_1.jpg"
     }
    ],
-   "new": true
+   "new": false
   },
   {
    "id": "Zac",
@@ -9621,6 +9645,10 @@
     {
      "name": "Prestige Fright Night Zeri",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_29.jpg"
+    },
+    {
+     "name": "Winter Wonder Zeri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_40.jpg"
     }
    ],
    "new": false
