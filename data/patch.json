@@ -1,5 +1,5 @@
 {
- "version": "15.24.1",
+ "version": "16.1.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1325,6 +1325,10 @@
     {
      "name": "Toy Terror Cho'Gath",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_32.jpg"
+    },
+    {
+     "name": "Petricite Cho'Gath",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_41.jpg"
     }
    ],
    "new": false
@@ -5207,6 +5211,10 @@
     {
      "name": "Spirit Blossom Morgana",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_80.jpg"
+    },
+    {
+     "name": "Prestige Veiled Lady Morgana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_81.jpg"
     }
    ],
    "new": false
@@ -5423,6 +5431,10 @@
     {
      "name": "Crystalis Indomitus Nautilus",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_36.jpg"
+    },
+    {
+     "name": "Petricite Nautilus",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_39.jpg"
     }
    ],
    "new": false
@@ -7745,6 +7757,10 @@
     {
      "name": "Crystalis Motus Taliyah",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_21.jpg"
+    },
+    {
+     "name": "Durand's Legacy Taliyah",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_24.jpg"
     }
    ],
    "new": false
