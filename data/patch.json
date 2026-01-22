@@ -1,5 +1,5 @@
 {
- "version": "16.1.1",
+ "version": "16.2.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1089,6 +1089,10 @@
     {
      "name": "Primordian Briar",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_10.jpg"
+    },
+    {
+     "name": "Battle Academia Briar",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Briar_20.jpg"
     }
    ],
    "new": false
@@ -2203,6 +2207,10 @@
     {
      "name": "Mythmaker Galio",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_28.jpg"
+    },
+    {
+     "name": "Aegis Frame Galio",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_40.jpg"
     }
    ],
    "new": false
@@ -5855,6 +5863,10 @@
     {
      "name": "Choo-Choo Ornn",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_20.jpg"
+    },
+    {
+     "name": "Aegis Frame Ornn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_29.jpg"
     }
    ],
    "new": false
@@ -6695,6 +6707,10 @@
     {
      "name": "Masque of the Black Rose Samira",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_33.jpg"
+    },
+    {
+     "name": "Battle Professor Samira",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_35.jpg"
     }
    ],
    "new": false
@@ -8837,6 +8853,10 @@
     {
      "name": "Worlds 2024 Viego",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_37.jpg"
+    },
+    {
+     "name": "Revenant Reign Viego",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_43.jpg"
     }
    ],
    "new": false
