@@ -1,5 +1,5 @@
 {
- "version": "16.2.1",
+ "version": "16.3.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -715,6 +715,10 @@
     {
      "name": "Spirit Blossom Ashe",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_76.jpg"
+    },
+    {
+     "name": "Firecracker Ashe",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_84.jpg"
     }
    ],
    "new": false
@@ -749,6 +753,10 @@
     {
      "name": "Porcelain Protector Aurelion Sol",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_31.jpg"
+    },
+    {
+     "name": "Divine Architect Porcelain Aurelion Sol",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_38.jpg"
     }
    ],
    "new": false
@@ -1183,6 +1191,10 @@
     {
      "name": "Prestige Arcane Commander Caitlyn",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_51.jpg"
+    },
+    {
+     "name": "Firecracker Caitlyn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_54.jpg"
     }
    ],
    "new": false
@@ -1225,6 +1237,10 @@
     {
      "name": "Prestige Winterblessed Camille",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_32.jpg"
+    },
+    {
+     "name": "Petals of Spring Camille",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_44.jpg"
     }
    ],
    "new": false
@@ -3139,6 +3155,10 @@
     {
      "name": "Prestige T1 Jayce",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_36.jpg"
+    },
+    {
+     "name": "Petals of Spring Jayce",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_38.jpg"
     }
    ],
    "new": false
@@ -3673,6 +3693,10 @@
     {
      "name": "Prestige Masque of the Black Rose Katarina",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_60.jpg"
+    },
+    {
+     "name": "Petals of Spring Katarina",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_70.jpg"
     }
    ],
    "new": false
@@ -4319,6 +4343,10 @@
     {
      "name": "Bowling League Lillia",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_37.jpg"
+    },
+    {
+     "name": "Petals of Spring Lillia",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_46.jpg"
     }
    ],
    "new": false
@@ -5995,6 +6023,10 @@
     {
      "name": "Cafe Cuties Poppy",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_33.jpg"
+    },
+    {
+     "name": "Firecracker Poppy",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_42.jpg"
     }
    ],
    "new": false
@@ -6881,6 +6913,10 @@
     {
      "name": "Dumpling Darlings Seraphine",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_50.jpg"
+    },
+    {
+     "name": "Firecracker Seraphine",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_59.jpg"
     }
    ],
    "new": false
@@ -9345,6 +9381,10 @@
     {
      "name": "Genesis Nightbringer Yasuo",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_87.jpg"
+    },
+    {
+     "name": "Petals of Spring Yasuo",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_88.jpg"
     }
    ],
    "new": false
@@ -9521,6 +9561,10 @@
     {
      "name": "Nightbringer Yuumi",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_61.jpg"
+    },
+    {
+     "name": "Firecracker Yuumi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_70.jpg"
     }
    ],
    "new": false
@@ -9743,6 +9787,10 @@
     {
      "name": "La Ilusión Ziggs",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_33.jpg"
+    },
+    {
+     "name": "Firecracker Ziggs",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_43.jpg"
     }
    ],
    "new": false
