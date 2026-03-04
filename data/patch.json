@@ -1,5 +1,5 @@
 {
- "version": "16.4.1",
+ "version": "16.5.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -4825,6 +4825,10 @@
     {
      "name": "DRX Maokai",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_33.jpg"
+    },
+    {
+     "name": "Corrupted Petricite Maokai",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_35.jpg"
     }
    ],
    "new": false
@@ -7489,6 +7493,10 @@
     {
      "name": "Spirit Blossom Springs Sona",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_66.jpg"
+    },
+    {
+     "name": "Prestige Requiem Sona",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_75.jpg"
     }
    ],
    "new": false
@@ -9241,6 +9249,10 @@
     {
      "name": "Crystalis Indomitus Xerath",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_30.jpg"
+    },
+    {
+     "name": "Corrupted Petricite Xerath",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_32.jpg"
     }
    ],
    "new": false
