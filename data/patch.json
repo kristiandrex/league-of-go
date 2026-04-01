@@ -1,5 +1,5 @@
 {
- "version": "16.6.1",
+ "version": "16.7.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -3551,6 +3551,42 @@
     {
      "name": "Beezcrank (Rainbow)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_64.jpg"
+    },
+    {
+     "name": "Bubble Bash Blitzcrank",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_66.jpg"
+    },
+    {
+     "name": "Bubble Bash Blitzcrank (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_67.jpg"
+    },
+    {
+     "name": "Bubble Bash Blitzcrank (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_68.jpg"
+    },
+    {
+     "name": "Bubble Bash Blitzcrank (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_69.jpg"
+    },
+    {
+     "name": "Bubble Bash Blitzcrank (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_70.jpg"
+    },
+    {
+     "name": "Bubble Bash Blitzcrank (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_71.jpg"
+    },
+    {
+     "name": "Bubble Bash Blitzcrank (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_72.jpg"
+    },
+    {
+     "name": "Bubble Bash Blitzcrank (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_73.jpg"
+    },
+    {
+     "name": "Bubble Bash Blitzcrank (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_74.jpg"
     }
    ],
    "new": false
@@ -8555,6 +8591,10 @@
     {
      "name": "Mythmaker Garen (Gilded)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_42.jpg"
+    },
+    {
+     "name": "Pengu Garen",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_43.jpg"
     },
     {
      "name": "Fallen God-King Garen",
@@ -18725,6 +18765,14 @@
     {
      "name": "Sahn-Uzal Mordekaiser",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_54.jpg"
+    },
+    {
+     "name": "Prestige Money Miser Mordekaiser",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_55.jpg"
+    },
+    {
+     "name": "Prestige Money Miser Mordekaiser (Vivid)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_58.jpg"
     }
    ],
    "new": false
@@ -24845,6 +24893,42 @@
     {
      "name": "Poro Rider Sejuani (Tenfold Triumph)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_47.jpg"
+    },
+    {
+     "name": "Pug Trainer Sejuani",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_48.jpg"
+    },
+    {
+     "name": "Pug Trainer Sejuani (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_49.jpg"
+    },
+    {
+     "name": "Pug Trainer Sejuani (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_50.jpg"
+    },
+    {
+     "name": "Pug Trainer Sejuani (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_51.jpg"
+    },
+    {
+     "name": "Pug Trainer Sejuani (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_52.jpg"
+    },
+    {
+     "name": "Pug Trainer Sejuani (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_53.jpg"
+    },
+    {
+     "name": "Pug Trainer Sejuani (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_54.jpg"
+    },
+    {
+     "name": "Pug Trainer Sejuani (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_55.jpg"
+    },
+    {
+     "name": "Pug Trainer Sejuani (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_56.jpg"
     }
    ],
    "new": false
@@ -26295,7 +26379,7 @@
    "id": "Shyvana",
    "name": "Shyvana",
    "title": "the Half-Dragon",
-   "lore": "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia.",
+   "lore": "Shyvana is a fearsome half-dragon warrior. Though she often appears humanoid, she also rules the skies as a dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia.",
    "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shyvana_0.jpg",
    "skins": [
     {
@@ -27953,6 +28037,42 @@
     {
      "name": "Chosen of the Wolf Swain (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_41.jpg"
+    },
+    {
+     "name": "Fried Chicken King Swain",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_42.jpg"
+    },
+    {
+     "name": "Fried Chicken King Swain (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_43.jpg"
+    },
+    {
+     "name": "Fried Chicken King Swain (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_44.jpg"
+    },
+    {
+     "name": "Fried Chicken King Swain (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_45.jpg"
+    },
+    {
+     "name": "Fried Chicken King Swain (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_46.jpg"
+    },
+    {
+     "name": "Fried Chicken King Swain (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_47.jpg"
+    },
+    {
+     "name": "Fried Chicken King Swain (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_48.jpg"
+    },
+    {
+     "name": "Fried Chicken King Swain (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_49.jpg"
+    },
+    {
+     "name": "Fried Chicken King Swain (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_50.jpg"
     }
    ],
    "new": false
@@ -28647,6 +28767,42 @@
     {
      "name": "Shan Hai Scrolls Tahm Kench (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_38.jpg"
+    },
+    {
+     "name": "Choncc Kench",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_39.jpg"
+    },
+    {
+     "name": "Choncc Kench (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_40.jpg"
+    },
+    {
+     "name": "Choncc Kench (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_41.jpg"
+    },
+    {
+     "name": "Choncc Kench (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_42.jpg"
+    },
+    {
+     "name": "Choncc Kench (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_43.jpg"
+    },
+    {
+     "name": "Choncc Kench (Amethyst)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_44.jpg"
+    },
+    {
+     "name": "Choncc Kench (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_45.jpg"
+    },
+    {
+     "name": "Choncc Kench (Sandstone)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_46.jpg"
+    },
+    {
+     "name": "Choncc Kench (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_47.jpg"
     }
    ],
    "new": false
@@ -32165,6 +32321,42 @@
     {
      "name": "Stargazer Vex (Tanzanite)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_28.jpg"
+    },
+    {
+     "name": "Surprise Party Vex",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_29.jpg"
+    },
+    {
+     "name": "Surprise Party Vex (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_30.jpg"
+    },
+    {
+     "name": "Surprise Party Vex (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_31.jpg"
+    },
+    {
+     "name": "Surprise Party Vex (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_32.jpg"
+    },
+    {
+     "name": "Surprise Party Vex (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_33.jpg"
+    },
+    {
+     "name": "Surprise Party Vex (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_34.jpg"
+    },
+    {
+     "name": "Surprise Party Vex (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_35.jpg"
+    },
+    {
+     "name": "Surprise Party Vex (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_36.jpg"
+    },
+    {
+     "name": "Surprise Party Vex (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_37.jpg"
     }
    ],
    "new": false
