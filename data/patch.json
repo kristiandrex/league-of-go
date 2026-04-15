@@ -1,5 +1,5 @@
 {
- "version": "16.7.1",
+ "version": "16.8.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -4023,6 +4023,46 @@
     {
      "name": "Grill Master Braum (Obsidian)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_50.jpg"
+    },
+    {
+     "name": "Victorious Braum",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_51.jpg"
+    },
+    {
+     "name": "Victorious Braum (Bronze)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_52.jpg"
+    },
+    {
+     "name": "Victorious Braum (Silver)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_53.jpg"
+    },
+    {
+     "name": "Victorious Braum (Gold)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_54.jpg"
+    },
+    {
+     "name": "Victorious Braum (Platinum)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_55.jpg"
+    },
+    {
+     "name": "Victorious Braum (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_56.jpg"
+    },
+    {
+     "name": "Victorious Braum (Diamond)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_57.jpg"
+    },
+    {
+     "name": "Victorious Braum (Master)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_58.jpg"
+    },
+    {
+     "name": "Victorious Braum (Grandmaster)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_59.jpg"
+    },
+    {
+     "name": "Victorious Braum (Challenger)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_60.jpg"
     }
    ],
    "new": false
@@ -17911,6 +17951,10 @@
     {
      "name": "Victorious Master Yi (Challenger)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_115.jpg"
+    },
+    {
+     "name": "PROJECT: Command Line Yi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_116.jpg"
     }
    ],
    "new": false
@@ -27119,6 +27163,42 @@
     {
      "name": "Mythmaker Sivir (Paragon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_71.jpg"
+    },
+    {
+     "name": "PROJECT: Sivir",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_72.jpg"
+    },
+    {
+     "name": "PROJECT: Sivir (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_73.jpg"
+    },
+    {
+     "name": "PROJECT: Sivir (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_74.jpg"
+    },
+    {
+     "name": "PROJECT: Sivir (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_75.jpg"
+    },
+    {
+     "name": "PROJECT: Sivir (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_76.jpg"
+    },
+    {
+     "name": "PROJECT: Sivir (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_77.jpg"
+    },
+    {
+     "name": "PROJECT: Sivir (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_78.jpg"
+    },
+    {
+     "name": "PROJECT: Sivir (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_79.jpg"
+    },
+    {
+     "name": "PROJECT: Sivir (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_80.jpg"
     }
    ],
    "new": false
@@ -33105,6 +33185,42 @@
     {
      "name": "Masque of the Black Rose Vladimir",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_48.jpg"
+    },
+    {
+     "name": "PsyOps Vladimir",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_49.jpg"
+    },
+    {
+     "name": "PsyOps Vladimir (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_50.jpg"
+    },
+    {
+     "name": "PsyOps Vladimir (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_51.jpg"
+    },
+    {
+     "name": "PsyOps Vladimir (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_52.jpg"
+    },
+    {
+     "name": "PsyOps Vladimir (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_53.jpg"
+    },
+    {
+     "name": "PsyOps Vladimir (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_54.jpg"
+    },
+    {
+     "name": "PsyOps Vladimir (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_55.jpg"
+    },
+    {
+     "name": "PsyOps Vladimir (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_56.jpg"
+    },
+    {
+     "name": "PsyOps Vladimir (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_57.jpg"
     }
    ],
    "new": false
@@ -35673,6 +35789,42 @@
     {
      "name": "Zesty Dip Zac (Dessert Dip)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_32.jpg"
+    },
+    {
+     "name": "Space Groove Zac",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_33.jpg"
+    },
+    {
+     "name": "Space Groove Zac (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_34.jpg"
+    },
+    {
+     "name": "Space Groove Zac (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_35.jpg"
+    },
+    {
+     "name": "Space Groove Zac (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_36.jpg"
+    },
+    {
+     "name": "Space Groove Zac (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_37.jpg"
+    },
+    {
+     "name": "Space Groove Zac (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_38.jpg"
+    },
+    {
+     "name": "Space Groove Zac (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_39.jpg"
+    },
+    {
+     "name": "Space Groove Zac (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_40.jpg"
+    },
+    {
+     "name": "Space Groove Zac (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_41.jpg"
     }
    ],
    "new": false
