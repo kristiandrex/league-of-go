@@ -1,5 +1,5 @@
 {
- "version": "16.8.1",
+ "version": "16.9.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -2035,6 +2035,10 @@
     {
      "name": "Battle Princess Annie (Obsidian)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_58.jpg"
+    },
+    {
+     "name": "Pandemonium Annie",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_59.jpg"
     }
    ],
    "new": false
@@ -8633,10 +8637,6 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_42.jpg"
     },
     {
-     "name": "Pengu Garen",
-     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_43.jpg"
-    },
-    {
      "name": "Fallen God-King Garen",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_44.jpg"
     },
@@ -14415,6 +14415,10 @@
     {
      "name": "Chosen of the Wolf Kindred (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_42.jpg"
+    },
+    {
+     "name": "Pandemonium Kindred",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_45.jpg"
     }
    ],
    "new": false
@@ -26193,6 +26197,14 @@
     {
      "name": "Cat-in-the-Box Shaco (Obsidian)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_70.jpg"
+    },
+    {
+     "name": "Prestige Pandemonium Shaco",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_71.jpg"
+    },
+    {
+     "name": "Prestige Pandemonium Shaco (Vivid)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_72.jpg"
     }
    ],
    "new": false
@@ -31871,6 +31883,34 @@
     {
      "name": "Risen Legend Vayne (Mythclimber)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_66.jpg"
+    },
+    {
+     "name": "Demoncursed Vayne",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_67.jpg"
+    },
+    {
+     "name": "Demoncursed Vayne (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_68.jpg"
+    },
+    {
+     "name": "Demoncursed Vayne (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_69.jpg"
+    },
+    {
+     "name": "Demoncursed Vayne (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_70.jpg"
+    },
+    {
+     "name": "Demoncursed Vayne (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_71.jpg"
+    },
+    {
+     "name": "Demoncursed Vayne (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_72.jpg"
+    },
+    {
+     "name": "Demoncursed Vayne (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_73.jpg"
     }
    ],
    "new": false
