@@ -1,5 +1,5 @@
 {
- "version": "16.9.1",
+ "version": "16.10.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -10467,6 +10467,42 @@
     {
      "name": "Spirit Blossom Ivern",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_30.jpg"
+    },
+    {
+     "name": "Rain Shepherd Ivern",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_31.jpg"
+    },
+    {
+     "name": "Rain Shepherd Ivern (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_32.jpg"
+    },
+    {
+     "name": "Rain Shepherd Ivern (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_33.jpg"
+    },
+    {
+     "name": "Rain Shepherd Ivern (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_34.jpg"
+    },
+    {
+     "name": "Rain Shepherd Ivern (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_35.jpg"
+    },
+    {
+     "name": "Rain Shepherd Ivern (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_36.jpg"
+    },
+    {
+     "name": "Rain Shepherd Ivern (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_37.jpg"
+    },
+    {
+     "name": "Rain Shepherd Ivern (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_38.jpg"
+    },
+    {
+     "name": "Rain Shepherd Ivern (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_39.jpg"
     }
    ],
    "new": false
@@ -22693,6 +22729,42 @@
     {
      "name": "Star Guardian Quinn (Brilliant)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_23.jpg"
+    },
+    {
+     "name": "PROJECT: Quinn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_24.jpg"
+    },
+    {
+     "name": "PROJECT: Quinn (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_25.jpg"
+    },
+    {
+     "name": "PROJECT: Quinn (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_26.jpg"
+    },
+    {
+     "name": "PROJECT: Quinn (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_27.jpg"
+    },
+    {
+     "name": "PROJECT: Quinn (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_28.jpg"
+    },
+    {
+     "name": "PROJECT: Quinn (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_29.jpg"
+    },
+    {
+     "name": "PROJECT: Quinn (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_30.jpg"
+    },
+    {
+     "name": "PROJECT: Quinn (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_31.jpg"
+    },
+    {
+     "name": "PROJECT: Quinn (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_32.jpg"
     }
    ],
    "new": false
