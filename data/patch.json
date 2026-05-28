@@ -1,5 +1,5 @@
 {
- "version": "16.10.1",
+ "version": "16.11.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -5819,6 +5819,38 @@
     {
      "name": "Dark Cosmic Diana (Quasar)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_74.jpg"
+    },
+    {
+     "name": "Eternal Aspect Diana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_76.jpg"
+    },
+    {
+     "name": "Eclipse Eternal Aspect Diana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_77.jpg"
+    },
+    {
+     "name": "Eternal Aspect Diana (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_78.jpg"
+    },
+    {
+     "name": "Eternal Aspect Diana (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_79.jpg"
+    },
+    {
+     "name": "Eternal Aspect Diana (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_80.jpg"
+    },
+    {
+     "name": "Eternal Aspect Diana (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_81.jpg"
+    },
+    {
+     "name": "Eternal Aspect Diana (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_82.jpg"
+    },
+    {
+     "name": "Eternal Aspect Diana (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_83.jpg"
     }
    ],
    "new": false
@@ -10075,6 +10107,42 @@
     {
      "name": "Battle Bear Illaoi (Nightwire)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_36.jpg"
+    },
+    {
+     "name": "Pasta Maker Illaoi",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_37.jpg"
+    },
+    {
+     "name": "Pasta Maker Illaoi (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_38.jpg"
+    },
+    {
+     "name": "Pasta Maker Illaoi (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_39.jpg"
+    },
+    {
+     "name": "Pasta Maker Illaoi (Amethyst)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_40.jpg"
+    },
+    {
+     "name": "Pasta Maker Illaoi (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_41.jpg"
+    },
+    {
+     "name": "Pasta Maker Illaoi (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_42.jpg"
+    },
+    {
+     "name": "Pasta Maker Illaoi (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_43.jpg"
+    },
+    {
+     "name": "Pasta Maker Illaoi (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_44.jpg"
+    },
+    {
+     "name": "Pasta Maker Illaoi (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_45.jpg"
     }
    ],
    "new": false
@@ -10337,6 +10405,42 @@
     {
      "name": "iG Irelia (Elite)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_62.jpg"
+    },
+    {
+     "name": "Breadsticks Irelia",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_63.jpg"
+    },
+    {
+     "name": "Breadsticks Irelia (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_64.jpg"
+    },
+    {
+     "name": "Breadsticks Irelia (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_65.jpg"
+    },
+    {
+     "name": "Breadsticks Irelia (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_66.jpg"
+    },
+    {
+     "name": "Breadsticks Irelia (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_67.jpg"
+    },
+    {
+     "name": "Breadsticks Irelia (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_68.jpg"
+    },
+    {
+     "name": "Breadsticks Irelia (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_69.jpg"
+    },
+    {
+     "name": "Breadsticks Irelia (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_70.jpg"
+    },
+    {
+     "name": "Breadsticks Irelia (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_71.jpg"
     }
    ],
    "new": false
@@ -15681,6 +15785,34 @@
     {
      "name": "Battle Lion Leona (Override)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_63.jpg"
+    },
+    {
+     "name": "Eternal Aspect Leona",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_64.jpg"
+    },
+    {
+     "name": "Eternal Aspect Leona (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_65.jpg"
+    },
+    {
+     "name": "Eternal Aspect Leona (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_66.jpg"
+    },
+    {
+     "name": "Eternal Aspect Leona (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_67.jpg"
+    },
+    {
+     "name": "Eternal Aspect Leona (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_68.jpg"
+    },
+    {
+     "name": "Eternal Aspect Leona (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_69.jpg"
+    },
+    {
+     "name": "Eternal Aspect Leona (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_70.jpg"
     }
    ],
    "new": false
@@ -26949,6 +27081,42 @@
     {
      "name": "Grand Reckoning Sion",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_49.jpg"
+    },
+    {
+     "name": "Pizza Chef Sion",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_50.jpg"
+    },
+    {
+     "name": "Pizza Chef Sion (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_51.jpg"
+    },
+    {
+     "name": "Pizza Chef Sion (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_52.jpg"
+    },
+    {
+     "name": "Pizza Chef Sion (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_53.jpg"
+    },
+    {
+     "name": "Pizza Chef Sion (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_54.jpg"
+    },
+    {
+     "name": "Pizza Chef Sion (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_55.jpg"
+    },
+    {
+     "name": "Pizza Chef Sion (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_56.jpg"
+    },
+    {
+     "name": "Pizza Chef Sion (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_57.jpg"
+    },
+    {
+     "name": "Pizza Chef Sion (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_58.jpg"
     }
    ],
    "new": false
@@ -32387,6 +32555,34 @@
     {
      "name": "Bee'Koz (Turquoise)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_28.jpg"
+    },
+    {
+     "name": "Spaghetti alla Vel'Koz",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_29.jpg"
+    },
+    {
+     "name": "Spaghetti alla Vel'Koz (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_30.jpg"
+    },
+    {
+     "name": "Spaghetti alla Vel'Koz (Pesto)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_31.jpg"
+    },
+    {
+     "name": "Spaghetti alla Vel'Koz (Dragon Fruit Noodle)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_32.jpg"
+    },
+    {
+     "name": "Spaghetti alla Vel'Koz (Strawberry Pasta)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_33.jpg"
+    },
+    {
+     "name": "Spaghetti alla Vel'Koz (Squid Ink Pasta)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_34.jpg"
+    },
+    {
+     "name": "Spaghetti alla Vel'Koz (Alfredo)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_35.jpg"
     }
    ],
    "new": false
