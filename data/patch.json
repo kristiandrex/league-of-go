@@ -1,5 +1,5 @@
 {
- "version": "16.11.1",
+ "version": "16.12.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -3813,6 +3813,10 @@
     {
      "name": "Zombie Brand (Doom)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_52.jpg"
+    },
+    {
+     "name": "Sinful Shores Brand",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_53.jpg"
     }
    ],
    "new": false
@@ -7283,6 +7287,10 @@
     {
      "name": "SSG Ezreal (Elite)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_75.jpg"
+    },
+    {
+     "name": "Heavenscale Ezreal (Beacon)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_76.jpg"
     }
    ],
    "new": false
@@ -9949,6 +9957,10 @@
     {
      "name": "Spirit Blossom Hwei (Paragon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_20.jpg"
+    },
+    {
+     "name": "Sinful Shores Hwei",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hwei_21.jpg"
     }
    ],
    "new": false
@@ -12387,6 +12399,10 @@
     {
      "name": "iG Kai'Sa (Elite)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_81.jpg"
+    },
+    {
+     "name": "Heavenscale Kai'Sa (Beacon)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_82.jpg"
     }
    ],
    "new": false
@@ -15193,6 +15209,14 @@
     {
      "name": "iG LeBlanc (Elite)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_58.jpg"
+    },
+    {
+     "name": "Prestige Sinful Shores LeBlanc",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_59.jpg"
+    },
+    {
+     "name": "Prestige Sinful Shores LeBlanc (Vivid)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_60.jpg"
     }
    ],
    "new": false
@@ -15397,7 +15421,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_49.jpg"
     },
     {
-     "name": "Storm Dragon Lee Sin Mythic Chroma",
+     "name": "Storm Dragon Lee Sin (Mythic)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_50.jpg"
     },
     {
@@ -15519,6 +15543,10 @@
     {
      "name": "Inkshadow Lee Sin (Turquoise)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_80.jpg"
+    },
+    {
+     "name": "Storm Dragon Lee Sin (Beacon)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_81.jpg"
     }
    ],
    "new": false
