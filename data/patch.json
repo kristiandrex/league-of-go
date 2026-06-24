@@ -1,5 +1,5 @@
 {
- "version": "16.12.1",
+ "version": "16.13.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1069,6 +1069,42 @@
     {
      "name": "Three Honors Akshan",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_20.jpg"
+    },
+    {
+     "name": "High Noon Akshan",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_21.jpg"
+    },
+    {
+     "name": "High Noon Akshan (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_22.jpg"
+    },
+    {
+     "name": "High Noon Akshan (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_23.jpg"
+    },
+    {
+     "name": "High Noon Akshan (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_24.jpg"
+    },
+    {
+     "name": "High Noon Akshan (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_25.jpg"
+    },
+    {
+     "name": "High Noon Akshan (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_26.jpg"
+    },
+    {
+     "name": "High Noon Akshan (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_27.jpg"
+    },
+    {
+     "name": "High Noon Akshan (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_28.jpg"
+    },
+    {
+     "name": "High Noon Akshan (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_29.jpg"
     }
    ],
    "new": false
@@ -2469,7 +2505,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_61.jpg"
     },
     {
-     "name": "PROJECT: Ashe Mythic Chroma",
+     "name": "PROJECT: Ashe (Mythic)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_62.jpg"
     },
     {
@@ -2843,6 +2879,42 @@
     {
      "name": "Arcana Aurora (Obsidian)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_19.jpg"
+    },
+    {
+     "name": "Broken Covenant Aurora",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_20.jpg"
+    },
+    {
+     "name": "Broken Covenant Aurora (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_21.jpg"
+    },
+    {
+     "name": "Broken Covenant Aurora (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_22.jpg"
+    },
+    {
+     "name": "Broken Covenant Aurora (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_23.jpg"
+    },
+    {
+     "name": "Broken Covenant Aurora (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_24.jpg"
+    },
+    {
+     "name": "Broken Covenant Aurora (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_25.jpg"
+    },
+    {
+     "name": "Broken Covenant Aurora (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_26.jpg"
+    },
+    {
+     "name": "Broken Covenant Aurora (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_27.jpg"
+    },
+    {
+     "name": "Broken Covenant Aurora (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aurora_28.jpg"
     }
    ],
    "new": false
@@ -5431,7 +5503,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_52.jpg"
     },
     {
-     "name": "Dunkmaster Darius Mythic Chroma",
+     "name": "Dunkmaster Darius (Mythic)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_53.jpg"
     },
     {
@@ -11729,6 +11801,42 @@
     {
      "name": "Arcana Jhin",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_55.jpg"
+    },
+    {
+     "name": "Broken Covenant Jhin",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_64.jpg"
+    },
+    {
+     "name": "Broken Covenant Jhin (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_65.jpg"
+    },
+    {
+     "name": "Broken Covenant Jhin (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_66.jpg"
+    },
+    {
+     "name": "Broken Covenant Jhin (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_67.jpg"
+    },
+    {
+     "name": "Broken Covenant Jhin (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_68.jpg"
+    },
+    {
+     "name": "Broken Covenant Jhin (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_69.jpg"
+    },
+    {
+     "name": "Broken Covenant Jhin (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_70.jpg"
+    },
+    {
+     "name": "Broken Covenant Jhin (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_71.jpg"
+    },
+    {
+     "name": "Broken Covenant Jhin (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_72.jpg"
     }
    ],
    "new": false
@@ -16286,6 +16394,56 @@
    "new": false
   },
   {
+   "id": "Locke",
+   "name": "Locke",
+   "title": "the Ashen Exorcist",
+   "lore": "A nail-slinging exorcist versed in forbidden rites, Corvin Locke is the progeny of Demacian occultists. Born into lies and hypocrisy, he learned young that demons aren't the cause of humanity's darkness, but the consequence. Now, Locke tears through every soul, exposing its darkness, intent on making the world a more honest place… one exorcism at a time.",
+   "thumbnail": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Locke_0.jpg",
+   "skins": [
+    {
+     "name": "default",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_0.jpg"
+    },
+    {
+     "name": "High Noon Locke",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_1.jpg"
+    },
+    {
+     "name": "High Noon Locke (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_2.jpg"
+    },
+    {
+     "name": "High Noon Locke (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_3.jpg"
+    },
+    {
+     "name": "High Noon Locke (Amethyst)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_4.jpg"
+    },
+    {
+     "name": "High Noon Locke (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_5.jpg"
+    },
+    {
+     "name": "High Noon Locke (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_6.jpg"
+    },
+    {
+     "name": "High Noon Locke (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_7.jpg"
+    },
+    {
+     "name": "High Noon Locke (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_8.jpg"
+    },
+    {
+     "name": "High Noon Locke (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_9.jpg"
+    }
+   ],
+   "new": true
+  },
+  {
    "id": "Lucian",
    "name": "Lucian",
    "title": "the Purifier",
@@ -16493,7 +16651,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_49.jpg"
     },
     {
-     "name": "High Noon Lucian Mythic Chroma",
+     "name": "High Noon Lucian (Mythic)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_50.jpg"
     },
     {
@@ -26659,6 +26817,42 @@
     {
      "name": "PsyOps Shen (Paragon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_53.jpg"
+    },
+    {
+     "name": "Broken Covenant Shen",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_54.jpg"
+    },
+    {
+     "name": "Broken Covenant Shen (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_55.jpg"
+    },
+    {
+     "name": "Broken Covenant Shen (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_56.jpg"
+    },
+    {
+     "name": "Broken Covenant Shen (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_57.jpg"
+    },
+    {
+     "name": "Broken Covenant Shen (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_58.jpg"
+    },
+    {
+     "name": "Broken Covenant Shen (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_59.jpg"
+    },
+    {
+     "name": "Broken Covenant Shen (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_60.jpg"
+    },
+    {
+     "name": "Broken Covenant Shen (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_61.jpg"
+    },
+    {
+     "name": "Broken Covenant Shen (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_62.jpg"
     }
    ],
    "new": false
