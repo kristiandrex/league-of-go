@@ -1,5 +1,5 @@
 {
- "version": "16.13.1",
+ "version": "16.14.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -1341,6 +1341,34 @@
     {
      "name": "Chosen of the Wolf Ambessa (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_7.jpg"
+    },
+    {
+     "name": "T1 Ambessa",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_8.jpg"
+    },
+    {
+     "name": "T1 Ambessa (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_9.jpg"
+    },
+    {
+     "name": "T1 Ambessa (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_10.jpg"
+    },
+    {
+     "name": "T1 Ambessa (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_11.jpg"
+    },
+    {
+     "name": "T1 Ambessa (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_12.jpg"
+    },
+    {
+     "name": "T1 Ambessa (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_13.jpg"
+    },
+    {
+     "name": "T1 Ambessa (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_14.jpg"
     }
    ],
    "new": false
@@ -8387,6 +8415,34 @@
     {
      "name": "Aegis Frame Galio (Rose Quartz)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_46.jpg"
+    },
+    {
+     "name": "T1 Galio",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_47.jpg"
+    },
+    {
+     "name": "T1 Galio (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_48.jpg"
+    },
+    {
+     "name": "T1 Galio (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_49.jpg"
+    },
+    {
+     "name": "T1 Galio (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_50.jpg"
+    },
+    {
+     "name": "T1 Galio (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_51.jpg"
+    },
+    {
+     "name": "T1 Galio (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_52.jpg"
+    },
+    {
+     "name": "T1 Galio (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_53.jpg"
     }
    ],
    "new": false
@@ -16441,7 +16497,7 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Locke_9.jpg"
     }
    ],
-   "new": true
+   "new": false
   },
   {
    "id": "Lucian",
@@ -18783,6 +18839,34 @@
     {
      "name": "Battle Queen Miss Fortune (Obsidian)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_68.jpg"
+    },
+    {
+     "name": "MVP T1 Miss Fortune",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_69.jpg"
+    },
+    {
+     "name": "MVP T1 Miss Fortune (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_70.jpg"
+    },
+    {
+     "name": "MVP T1 Miss Fortune (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_71.jpg"
+    },
+    {
+     "name": "MVP T1 Miss Fortune (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_72.jpg"
+    },
+    {
+     "name": "MVP T1 Miss Fortune (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_73.jpg"
+    },
+    {
+     "name": "MVP T1 Miss Fortune (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_74.jpg"
+    },
+    {
+     "name": "MVP T1 Miss Fortune (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_75.jpg"
     }
    ],
    "new": false
@@ -24345,6 +24429,46 @@
     {
      "name": "Street Demons Rengar (Sapphire)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_48.jpg"
+    },
+    {
+     "name": "Victorious Rengar",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_49.jpg"
+    },
+    {
+     "name": "Victorious Rengar (Bronze)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_50.jpg"
+    },
+    {
+     "name": "Victorious Rengar (Silver)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_51.jpg"
+    },
+    {
+     "name": "Victorious Rengar (Gold)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_52.jpg"
+    },
+    {
+     "name": "Victorious Rengar (Platinum)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_53.jpg"
+    },
+    {
+     "name": "Victorious Rengar (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_54.jpg"
+    },
+    {
+     "name": "Victorious Rengar (Diamond)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_55.jpg"
+    },
+    {
+     "name": "Victorious Rengar (Master)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_56.jpg"
+    },
+    {
+     "name": "Victorious Rengar (Grandmaster)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_57.jpg"
+    },
+    {
+     "name": "Victorious Rengar (Challenger)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_58.jpg"
     }
    ],
    "new": false
@@ -25979,6 +26103,34 @@
     {
      "name": "Firecracker Seraphine (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_67.jpg"
+    },
+    {
+     "name": "T1 Seraphine",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_68.jpg"
+    },
+    {
+     "name": "T1 Seraphine (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_70.jpg"
+    },
+    {
+     "name": "T1 Seraphine (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_71.jpg"
+    },
+    {
+     "name": "T1 Seraphine (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_72.jpg"
+    },
+    {
+     "name": "T1 Seraphine (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_73.jpg"
+    },
+    {
+     "name": "T1 Seraphine (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_74.jpg"
+    },
+    {
+     "name": "T1 Seraphine (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_75.jpg"
     }
    ],
    "new": false
@@ -34793,6 +34945,34 @@
     {
      "name": "Trials of Twilight Xin Zhao (Rose Quartz)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_52.jpg"
+    },
+    {
+     "name": "T1 Xin Zhao",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_53.jpg"
+    },
+    {
+     "name": "T1 Xin Zhao (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_54.jpg"
+    },
+    {
+     "name": "T1 Xin Zhao (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_55.jpg"
+    },
+    {
+     "name": "T1 Xin Zhao (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_56.jpg"
+    },
+    {
+     "name": "T1 Xin Zhao (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_57.jpg"
+    },
+    {
+     "name": "T1 Xin Zhao (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_58.jpg"
+    },
+    {
+     "name": "T1 Xin Zhao (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_59.jpg"
     }
    ],
    "new": false
@@ -35801,6 +35981,34 @@
     {
      "name": "Spirit Blossom Springs Yunara (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_9.jpg"
+    },
+    {
+     "name": "T1 Yunara",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_10.jpg"
+    },
+    {
+     "name": "T1 Yunara (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_11.jpg"
+    },
+    {
+     "name": "T1 Yunara (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_12.jpg"
+    },
+    {
+     "name": "T1 Yunara (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_13.jpg"
+    },
+    {
+     "name": "T1 Yunara (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_14.jpg"
+    },
+    {
+     "name": "T1 Yunara (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_15.jpg"
+    },
+    {
+     "name": "T1 Yunara (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yunara_16.jpg"
     }
    ],
    "new": false
