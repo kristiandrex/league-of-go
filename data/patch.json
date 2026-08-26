@@ -1,5 +1,5 @@
 {
- "version": "16.16.1",
+ "version": "16.17.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -12263,6 +12263,42 @@
     {
      "name": "Zombie Slayer Jinx (Doom)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_64.jpg"
+    },
+    {
+     "name": "Ocean Song Jinx",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_65.jpg"
+    },
+    {
+     "name": "Ocean Song Jinx (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_66.jpg"
+    },
+    {
+     "name": "Ocean Song Jinx (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_67.jpg"
+    },
+    {
+     "name": "Ocean Song Jinx (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_68.jpg"
+    },
+    {
+     "name": "Ocean Song Jinx (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_69.jpg"
+    },
+    {
+     "name": "Ocean Song Jinx (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_70.jpg"
+    },
+    {
+     "name": "Ocean Song Jinx (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_71.jpg"
+    },
+    {
+     "name": "Ocean Song Jinx (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_72.jpg"
+    },
+    {
+     "name": "Ocean Song Jinx (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_73.jpg"
     }
    ],
    "new": false
@@ -26265,6 +26301,10 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_68.jpg"
     },
     {
+     "name": "Heartsong Seraphine",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_69.jpg"
+    },
+    {
      "name": "T1 Seraphine (Elite)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_70.jpg"
     },
@@ -26287,6 +26327,30 @@
     {
      "name": "T1 Seraphine (Sapphire)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_75.jpg"
+    },
+    {
+     "name": "Heartsong Seraphine (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_76.jpg"
+    },
+    {
+     "name": "Heartsong Seraphine (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_77.jpg"
+    },
+    {
+     "name": "Heartsong Seraphine (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_78.jpg"
+    },
+    {
+     "name": "Heartsong Seraphine (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_79.jpg"
+    },
+    {
+     "name": "Heartsong Seraphine (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_80.jpg"
+    },
+    {
+     "name": "Heartsong Seraphine (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_81.jpg"
     }
    ],
    "new": false
@@ -28721,6 +28785,42 @@
     {
      "name": "Reaper Soraka (Doom)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_62.jpg"
+    },
+    {
+     "name": "Ocean Song Soraka",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_63.jpg"
+    },
+    {
+     "name": "Ocean Song Soraka (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_64.jpg"
+    },
+    {
+     "name": "Ocean Song Soraka (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_65.jpg"
+    },
+    {
+     "name": "Ocean Song Soraka (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_66.jpg"
+    },
+    {
+     "name": "Ocean Song Soraka (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_67.jpg"
+    },
+    {
+     "name": "Ocean Song Soraka (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_68.jpg"
+    },
+    {
+     "name": "Ocean Song Soraka (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_69.jpg"
+    },
+    {
+     "name": "Ocean Song Soraka (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_70.jpg"
+    },
+    {
+     "name": "Ocean Song Soraka (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_71.jpg"
     }
    ],
    "new": false
