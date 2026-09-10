@@ -1,5 +1,5 @@
 {
- "version": "16.17.1",
+ "version": "16.18.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -975,6 +975,10 @@
     {
      "name": "Spirit Blossom Akali (Paragon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_101.jpg"
+    },
+    {
+     "name": "Empyrean Akali (Paragon)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_104.jpg"
     }
    ],
    "new": false
@@ -15525,6 +15529,10 @@
     {
      "name": "Prestige Sinful Shores LeBlanc (Vivid)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_60.jpg"
+    },
+    {
+     "name": "Elderwood LeBlanc (Paragon)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_61.jpg"
     }
    ],
    "new": false
@@ -22075,6 +22083,18 @@
     {
      "name": "T1 Orianna (Elite)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_39.jpg"
+    },
+    {
+     "name": "Risen Legend Orianna",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_40.jpg"
+    },
+    {
+     "name": "Risen Legend Orianna (Paragon)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_41.jpg"
+    },
+    {
+     "name": "Risen Legend Orianna (Mythclimber)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_42.jpg"
     }
    ],
    "new": false
@@ -29875,6 +29895,10 @@
     {
      "name": "Durand's Legacy Taliyah",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_24.jpg"
+    },
+    {
+     "name": "Freljord Taliyah (Paragon)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_33.jpg"
     }
    ],
    "new": false
@@ -31149,6 +31173,14 @@
     {
      "name": "Rain Shepherd Tristana (Obsidian)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_78.jpg"
+    },
+    {
+     "name": "Risen Legend Tristana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_79.jpg"
+    },
+    {
+     "name": "Immortalized Legend Tristana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_80.jpg"
     }
    ],
    "new": false
