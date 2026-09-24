@@ -1,5 +1,5 @@
 {
- "version": "16.18.1",
+ "version": "16.19.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -561,6 +561,10 @@
     {
      "name": "Spirit Blossom Springs Ahri (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_95.jpg"
+    },
+    {
+     "name": "Coven Ahri (Pristine)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_96.jpg"
     }
    ],
    "new": false
@@ -1865,6 +1869,42 @@
     {
      "name": "Victorious Anivia (Challenger)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_54.jpg"
+    },
+    {
+     "name": "Old God Anivia",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_56.jpg"
+    },
+    {
+     "name": "Old God Anivia (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_57.jpg"
+    },
+    {
+     "name": "Old God Anivia (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_58.jpg"
+    },
+    {
+     "name": "Old God Anivia (Citrine)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_59.jpg"
+    },
+    {
+     "name": "Old God Anivia (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_60.jpg"
+    },
+    {
+     "name": "Old God Anivia (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_61.jpg"
+    },
+    {
+     "name": "Old God Anivia (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_62.jpg"
+    },
+    {
+     "name": "Old God Anivia (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_63.jpg"
+    },
+    {
+     "name": "Old God Anivia (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_64.jpg"
     }
    ],
    "new": false
@@ -2667,6 +2707,10 @@
     {
      "name": "Firecracker Ashe (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_92.jpg"
+    },
+    {
+     "name": "Coven Ashe (Pristine)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_93.jpg"
     }
    ],
    "new": false
@@ -11125,6 +11169,34 @@
     {
      "name": "Dawnbringer Janna",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_66.jpg"
+    },
+    {
+     "name": "Coven Janna",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_67.jpg"
+    },
+    {
+     "name": "Coven Janna (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_68.jpg"
+    },
+    {
+     "name": "Coven Janna (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_69.jpg"
+    },
+    {
+     "name": "Coven Janna (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_70.jpg"
+    },
+    {
+     "name": "Coven Janna (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_71.jpg"
+    },
+    {
+     "name": "Coven Janna (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_72.jpg"
+    },
+    {
+     "name": "Coven Janna (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_73.jpg"
     }
    ],
    "new": false
@@ -18623,6 +18695,42 @@
     {
      "name": "Prestige Winterblessed Mel (Vivid)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_11.jpg"
+    },
+    {
+     "name": "Coven Mel",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_12.jpg"
+    },
+    {
+     "name": "Coven Mel (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_13.jpg"
+    },
+    {
+     "name": "Coven Mel (Aquamarine)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_14.jpg"
+    },
+    {
+     "name": "Coven Mel (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_15.jpg"
+    },
+    {
+     "name": "Coven Mel (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_16.jpg"
+    },
+    {
+     "name": "Coven Mel (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_17.jpg"
+    },
+    {
+     "name": "Coven Mel (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_18.jpg"
+    },
+    {
+     "name": "Coven Mel (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_19.jpg"
+    },
+    {
+     "name": "Coven Mel (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mel_20.jpg"
     }
    ],
    "new": false
@@ -19793,6 +19901,10 @@
     {
      "name": "Prestige Veiled Lady Morgana (Vivid)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_82.jpg"
+    },
+    {
+     "name": "Coven Morgana (Pristine)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_83.jpg"
     }
    ],
    "new": false
@@ -32213,6 +32325,42 @@
     {
      "name": "Urgot the Clogfather (Obsidian)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_40.jpg"
+    },
+    {
+     "name": "Old God Urgot",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_41.jpg"
+    },
+    {
+     "name": "Old God Urgot (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_42.jpg"
+    },
+    {
+     "name": "Old God Urgot (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_43.jpg"
+    },
+    {
+     "name": "Old God Urgot (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_44.jpg"
+    },
+    {
+     "name": "Old God Urgot (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_45.jpg"
+    },
+    {
+     "name": "Old God Urgot (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_46.jpg"
+    },
+    {
+     "name": "Old God Urgot (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_47.jpg"
+    },
+    {
+     "name": "Old God Urgot (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_48.jpg"
+    },
+    {
+     "name": "Old God Urgot (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_49.jpg"
     }
    ],
    "new": false
