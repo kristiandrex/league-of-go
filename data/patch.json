@@ -1,5 +1,5 @@
 {
- "version": "16.19.1",
+ "version": "16.20.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -2325,6 +2325,42 @@
     {
      "name": "Prestige Spirit Blossom Springs Aphelios",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_40.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Aphelios",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_41.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Aphelios (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_42.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Aphelios (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_43.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Aphelios (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_44.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Aphelios (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_45.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Aphelios (Peridot)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_46.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Aphelios (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_47.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Aphelios (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_48.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Aphelios (Aquamarine)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_49.jpg"
     }
    ],
    "new": false
@@ -7495,6 +7531,42 @@
     {
      "name": "Porcelain Protector Ezreal (Lustrous)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_77.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Ezreal",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_78.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Ezreal (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_79.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Ezreal (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_80.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Ezreal (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_81.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Ezreal (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_82.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Ezreal (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_83.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Ezreal (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_84.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Ezreal (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_85.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Ezreal (Peridot)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_86.jpg"
     }
    ],
    "new": false
@@ -11613,6 +11685,10 @@
     {
      "name": "Prestige Magma Chamber Jax (Vivid)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_43.jpg"
+    },
+    {
+     "name": "SKT T1 Jax (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_44.jpg"
     }
    ],
    "new": false
@@ -12457,6 +12533,42 @@
     {
      "name": "HEARTSTEEL K'Sante (Rockstar)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_17.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life K'Sante",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_18.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life K'Sante (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_19.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life K'Sante (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_20.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life K'Sante (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_21.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life K'Sante (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_22.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life K'Sante (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_23.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life K'Sante (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_24.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life K'Sante (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_25.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life K'Sante (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_26.jpg"
     }
    ],
    "new": false
@@ -14385,6 +14497,26 @@
     {
      "name": "Battle Academia Kayn (Emerald)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_30.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Kayn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_32.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Kayn (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_33.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Kayn (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_34.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Kayn (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_35.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Kayn (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_36.jpg"
     }
    ],
    "new": false
@@ -15347,6 +15479,14 @@
     {
      "name": "Victorious Kog'Maw (Challenger)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_64.jpg"
+    },
+    {
+     "name": "Prestige Classic Baron Kog'Maw",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_65.jpg"
+    },
+    {
+     "name": "Prestige Classic Baron Kog'Maw (Vivid)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_66.jpg"
     }
    ],
    "new": false
@@ -15935,6 +16075,10 @@
     {
      "name": "Storm Dragon Lee Sin (Beacon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_81.jpg"
+    },
+    {
+     "name": "SKT T1 Lee Sin (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_82.jpg"
     }
    ],
    "new": false
@@ -26797,6 +26941,14 @@
     {
      "name": "Spirit Blossom Springs Sett (Rose Quartz)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_75.jpg"
+    },
+    {
+     "name": "Prestige HEARTSTEEL Live My Life Sett",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_76.jpg"
+    },
+    {
+     "name": "Prestige HEARTSTEEL Live My Life Sett (Vivid)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_77.jpg"
     }
    ],
    "new": false
@@ -32961,6 +33113,10 @@
     {
      "name": "Demoncursed Vayne (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_73.jpg"
+    },
+    {
+     "name": "SKT T1 Vayne (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_74.jpg"
     }
    ],
    "new": false
@@ -36129,6 +36285,42 @@
     {
      "name": "Inkshadow Yone (Paragon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_76.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Yone",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_77.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Yone (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_78.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Yone (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_79.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Yone (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_80.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Yone (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_81.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Yone (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_82.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Yone (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_83.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Yone (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_84.jpg"
+    },
+    {
+     "name": "HEARTSTEEL Live My Life Yone (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_85.jpg"
     }
    ],
    "new": false
@@ -37301,6 +37493,10 @@
     {
      "name": "Prestige Spirit Blossom Zed (Vivid)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_70.jpg"
+    },
+    {
+     "name": "SKT T1 Zed (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_71.jpg"
     }
    ],
    "new": false
@@ -38355,6 +38551,10 @@
     {
      "name": "Spirit Blossom Zyra (Obsidian)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_73.jpg"
+    },
+    {
+     "name": "SKT T1 Zyra (Elite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_74.jpg"
     }
    ],
    "new": false
