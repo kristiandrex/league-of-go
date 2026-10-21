@@ -1,5 +1,5 @@
 {
- "version": "16.20.1",
+ "version": "16.21.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -981,8 +981,36 @@
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_101.jpg"
     },
     {
+     "name": "True Damage Know My Name Akali",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_103.jpg"
+    },
+    {
      "name": "Empyrean Akali (Paragon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_104.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Akali (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_105.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Akali (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_106.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Akali (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_107.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Akali (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_108.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Akali (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_109.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Akali (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_110.jpg"
     }
    ],
    "new": false
@@ -6789,6 +6817,14 @@
     {
      "name": "Arcane Last Stand Ekko (Paragon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_58.jpg"
+    },
+    {
+     "name": "Prestige True Damage Know My Name Ekko",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_59.jpg"
+    },
+    {
+     "name": "Prestige True Damage Know My Name Ekko (Vivid)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_60.jpg"
     }
    ],
    "new": false
@@ -23489,6 +23525,42 @@
     {
      "name": "Prestige Battle Academia Qiyana",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_50.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Qiyana",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_51.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Qiyana (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_52.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Qiyana (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_53.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Qiyana (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_54.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Qiyana (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_55.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Qiyana (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_56.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Qiyana (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_57.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Qiyana (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_58.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Qiyana (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_59.jpg"
     }
    ],
    "new": false
@@ -26289,6 +26361,42 @@
     {
      "name": "Warhound Senna (Fearless Fang)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_80.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Senna",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_81.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Senna (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_82.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Senna (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_83.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Senna (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_84.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Senna (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_85.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Senna (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_86.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Senna (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_87.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Senna (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_88.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Senna (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_89.jpg"
     }
    ],
    "new": false
@@ -35971,6 +36079,30 @@
     {
      "name": "Petals of Spring Yasuo (Emerald)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_96.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Yasuo",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_97.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Yasuo (Unlocked)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_98.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Yasuo (Momentous)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_99.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Yasuo (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_100.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Yasuo (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_101.jpg"
+    },
+    {
+     "name": "True Damage Know My Name Yasuo (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_102.jpg"
     }
    ],
    "new": false
