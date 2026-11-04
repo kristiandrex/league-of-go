@@ -1,5 +1,5 @@
 {
- "version": "16.21.1",
+ "version": "16.22.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -565,6 +565,42 @@
     {
      "name": "Coven Ahri (Pristine)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_96.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ahri",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_97.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ahri (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_98.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ahri (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_99.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ahri (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_100.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ahri (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_101.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ahri (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_102.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ahri (Amethyst)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_103.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ahri (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_104.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ahri (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_105.jpg"
     }
    ],
    "new": false
@@ -979,6 +1015,10 @@
     {
      "name": "Spirit Blossom Akali (Paragon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_101.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Ignition Akali",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_102.jpg"
     },
     {
      "name": "True Damage Know My Name Akali",
@@ -7249,6 +7289,38 @@
     {
      "name": "Nightbringer Evelynn",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_64.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Evelynn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_65.jpg"
+    },
+    {
+     "name": "K/DA Hitmaker Evelynn",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_66.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Evelynn (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_67.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Evelynn (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_68.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Evelynn (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_69.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Evelynn (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_70.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Evelynn (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_71.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Evelynn (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_72.jpg"
     }
    ],
    "new": false
@@ -9447,6 +9519,10 @@
     {
      "name": "Music Fan Gragas (Pearl)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_47.jpg"
+    },
+    {
+     "name": "Music Fan Gragas (FIRESTARTER)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_49.jpg"
     }
    ],
    "new": false
@@ -12931,6 +13007,42 @@
     {
      "name": "Heavenscale Kai'Sa (Beacon)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_82.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Kai'Sa",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_83.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Kai'Sa (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_84.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Kai'Sa (Tanzanite)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_85.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Kai'Sa (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_86.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Kai'Sa (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_87.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Kai'Sa (Citrine)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_88.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Kai'Sa (Turquoise)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_89.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Kai'Sa (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_90.jpg"
+    },
+    {
+     "name": "K/DA FIRESTARTER Kai'Sa (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_91.jpg"
     }
    ],
    "new": false
