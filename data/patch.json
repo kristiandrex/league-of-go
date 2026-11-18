@@ -1,5 +1,5 @@
 {
- "version": "16.22.1",
+ "version": "16.23.1",
  "champions": [
   {
    "id": "Aatrox",
@@ -21307,6 +21307,42 @@
     {
      "name": "Beeko",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_49.jpg"
+    },
+    {
+     "name": "Cafe Cuties Neeko",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_50.jpg"
+    },
+    {
+     "name": "Cafe Cuties Neeko (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_51.jpg"
+    },
+    {
+     "name": "Cafe Cuties Neeko (Aquamarine)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_52.jpg"
+    },
+    {
+     "name": "Cafe Cuties Neeko (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_53.jpg"
+    },
+    {
+     "name": "Cafe Cuties Neeko (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_54.jpg"
+    },
+    {
+     "name": "Cafe Cuties Neeko (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_55.jpg"
+    },
+    {
+     "name": "Cafe Cuties Neeko (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_56.jpg"
+    },
+    {
+     "name": "Cafe Cuties Neeko (Jasper)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_57.jpg"
+    },
+    {
+     "name": "Cafe Cuties Neeko (Peridot)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_58.jpg"
     }
    ],
    "new": false
@@ -29027,6 +29063,10 @@
     {
      "name": "Prestige Requiem Sona (Vivid)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_76.jpg"
+    },
+    {
+     "name": "DJ Sona Ultimate Remix",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_77.jpg"
     }
    ],
    "new": false
@@ -38489,6 +38529,42 @@
     {
      "name": "Prestige Eternal Aspect Zoe (Vivid)",
      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_44.jpg"
+    },
+    {
+     "name": "Cafe Cuties Zoe",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_45.jpg"
+    },
+    {
+     "name": "Cafe Cuties Zoe (Ruby)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_46.jpg"
+    },
+    {
+     "name": "Cafe Cuties Zoe (Catseye)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_47.jpg"
+    },
+    {
+     "name": "Cafe Cuties Zoe (Emerald)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_48.jpg"
+    },
+    {
+     "name": "Cafe Cuties Zoe (Amethyst)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_49.jpg"
+    },
+    {
+     "name": "Cafe Cuties Zoe (Sapphire)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_50.jpg"
+    },
+    {
+     "name": "Cafe Cuties Zoe (Rose Quartz)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_51.jpg"
+    },
+    {
+     "name": "Cafe Cuties Zoe (Pearl)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_52.jpg"
+    },
+    {
+     "name": "Cafe Cuties Zoe (Obsidian)",
+     "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_53.jpg"
     }
    ],
    "new": false
